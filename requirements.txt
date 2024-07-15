@@ -1,0 +1,5 @@
+numpy
+pandas
+requests
+#allows it to automatically connect to setup.py
+-e .
