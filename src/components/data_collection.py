@@ -4,7 +4,7 @@ import sqlite3
 
 
 access_key = 'f454e57f-86af-4fc0-ba98-2928eef7c1d3'
-access_token = '9fvnD-aAhye-ubVfjS9j5bf5ey4z47be3+neG4c6aa6NKzZ3f1Ez3f58S-5f5u9h94egDua5QTf4U+B5-4dBBa8gsF7FmSe7-wfp'
+access_token = 'QCc@q9F9f83@2BNf6fe4+HyHfqWM8z9R8qcK9CCyTD2a4aRj8Pg0HTVaaYet7p855G86s-QMufzz4RaYeMgY7a6jv5vh7zfv6kvp'
 url = 'https://www.ura.gov.sg/uraDataService/invokeUraDS'
 
 conn = sqlite3.connect('house_data.db')

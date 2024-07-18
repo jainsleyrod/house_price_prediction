@@ -2,5 +2,8 @@ numpy
 pandas
 requests
 scikit-learn
+catboost
+xgboost
+dill
 #allows it to automatically connect to setup.py
 #-e .

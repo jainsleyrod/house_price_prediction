@@ -1,718 +1,709 @@
-area,floorRange,noOfUnits,contractDate,typeOfSale,price,propertyType,district,typeOfArea,tenure,mktSegment
-6084,11-15,40,1121,3,152000000,Condominium,15,Strata,Freehold,RCR
-923.1,-,1,0920,3,8880000,Detached,19,Land,Freehold,OCR
-144.6,-,1,0922,3,3390000,Terrace,12,Land,Freehold,RCR
-176,01-05,1,0424,3,2900000,Condominium,05,Strata,Freehold,RCR
-214.6,-,1,0623,3,3888888,Terrace,16,Land,Freehold,OCR
-289.3,-,1,0821,3,4350000,Semi-detached,05,Land,Freehold,RCR
-332.7,-,1,0320,3,6040000,Semi-detached,15,Land,Freehold,RCR
-82,06-10,1,1223,3,1360000,Apartment,07,Strata,99 yrs lease commencing from 1997,RCR
-63,01-05,1,0621,3,1280000,Apartment,09,Strata,Freehold,CCR
-528,-,1,1022,1,4412000,Strata Semi-detached,19,Strata,99 yrs lease commencing from 2017,OCR
-294.6,-,1,1022,3,5218000,Semi-detached,21,Land,Freehold,RCR
-104,01-05,1,0523,3,1785000,Apartment,15,Strata,Freehold,RCR
-119,21-25,1,0523,3,2550000,Condominium,12,Strata,Freehold,RCR
-121,01-05,1,1023,3,1900000,Apartment,15,Strata,Freehold,RCR
-42,11-15,1,0424,3,800000,Apartment,15,Strata,Freehold,RCR
-299,21-25,1,1122,3,9550000,Condominium,09,Strata,Freehold,CCR
-298,11-15,1,1020,3,5100000,Apartment,09,Strata,Freehold,CCR
-98,01-05,1,0922,3,1760000,Condominium,11,Strata,Freehold,CCR
-187.9,-,1,1022,3,5300000,Terrace,02,Land,Freehold,RCR
-95,01-05,1,0723,3,1450000,Apartment,19,Strata,Freehold,OCR
-1236.4,-,1,0521,3,24800000,Detached,10,Land,Freehold,CCR
-2011.1,-,1,1220,3,42000000,Detached,10,Land,Freehold,CCR
-395.7,-,1,0922,3,4680000,Terrace,16,Land,999 yrs lease commencing from 1885,OCR
-222.4,-,1,0221,3,3770000,Terrace,19,Land,Freehold,OCR
-94,21-25,1,1123,3,2880000,Condominium,09,Strata,99 yrs lease commencing from 2016,CCR
-330,-,1,0122,3,4150000,Semi-detached,14,Land,Freehold,OCR
-301.9,-,1,1121,1,8800000,Semi-detached,11,Land,Freehold,CCR
-145,06-10,1,0822,3,2950000,Condominium,10,Strata,Freehold,CCR
-1542.8,-,1,0921,3,32500000,Detached,11,Land,Freehold,CCR
-396.1,-,1,0623,3,5330000,Semi-detached,16,Land,Freehold,OCR
-183,16-20,1,1022,3,3060000,Apartment,09,Strata,Freehold,CCR
-170.7,-,1,0921,3,3478000,Terrace,21,Land,Freehold,RCR
-244,-,1,0722,3,2550000,Strata Terrace,19,Strata,Freehold,OCR
-1081.6,-,1,0923,3,21020000,Detached,10,Land,Freehold,CCR
-92,21-25,1,0723,3,1636888,Condominium,08,Strata,Freehold,RCR
-1312.1,-,2,0523,3,32200000,Detached,11,Land,Freehold,CCR
-87,06-10,1,0922,3,1035000,Apartment,14,Strata,Freehold,RCR
-79,01-05,1,1023,3,1200000,Apartment,15,Strata,Freehold,OCR
-163,11-15,1,0723,3,1950000,Condominium,21,Strata,99 yrs lease commencing from 1984,RCR
-40,01-05,1,0622,3,680000,Apartment,14,Strata,Freehold,OCR
-165,06-10,1,0621,3,1600000,Apartment,07,Strata,Freehold,RCR
-42,06-10,1,0623,3,808000,Apartment,09,Strata,Freehold,CCR
-219,01-05,1,0922,3,2600000,Apartment,10,Strata,Freehold,CCR
-150,06-10,1,0822,3,3850000,Apartment,09,Strata,Freehold,CCR
-38,01-05,1,0123,3,620000,Apartment,14,Strata,Freehold,RCR
-167,16-20,1,1123,3,3390000,Apartment,10,Strata,Freehold,CCR
-158,11-15,1,0623,3,1980000,Apartment,12,Strata,Freehold,RCR
-539.2,-,1,0723,3,10700000,Semi-detached,10,Land,999 yrs lease commencing from 1875,CCR
-87,11-15,1,0624,3,1390000,Condominium,16,Strata,99 yrs lease commencing from 1982,OCR
-206,16-20,1,0424,3,3400000,Condominium,15,Strata,Freehold,RCR
-150.1,-,1,1221,3,3000000,Terrace,14,Land,Freehold,RCR
-165.9,-,1,0621,3,3128000,Terrace,19,Land,Freehold,OCR
-89,06-10,1,0223,3,2100000,Apartment,10,Strata,Freehold,CCR
-185,01-05,1,0423,3,2320000,Condominium,19,Strata,Freehold,OCR
-158,06-10,1,0524,3,1720000,Apartment,20,Strata,102 yrs lease commencing from 1978,RCR
-48,01-05,1,1122,3,760000,Apartment,15,Strata,Freehold,RCR
-174.9,-,1,0723,3,3300000,Terrace,14,Land,Freehold,OCR
-325.2,-,1,0122,3,4350000,Semi-detached,19,Land,Freehold,OCR
-68,06-10,1,0523,3,1490000,Apartment,09,Strata,Freehold,CCR
-302.5,-,1,1221,3,4600000,Semi-detached,05,Land,Freehold,OCR
-338.5,-,1,0821,3,6900000,Semi-detached,10,Land,Freehold,CCR
-108,11-15,1,0623,3,1850000,Condominium,03,Strata,99 yrs lease commencing from 1991,RCR
-150,-,1,0721,3,2000000,Terrace,05,Land,99 yrs lease commencing from 1997,OCR
-97,11-15,1,1120,3,2460000,Apartment,02,Strata,Freehold,RCR
-249.5,-,1,1220,3,4000000,Terrace,13,Land,Freehold,RCR
-42,01-05,1,0623,3,742000,Apartment,14,Strata,Freehold,RCR
-88,01-05,1,0323,3,1700000,Condominium,10,Strata,Freehold,CCR
-341.1,-,1,0424,3,6917000,Semi-detached,15,Land,Freehold,RCR
-254.6,-,1,0122,3,4400000,Terrace,15,Land,Freehold,OCR
-82,01-05,1,1222,3,2100000,Apartment,10,Strata,999 yrs lease commencing from 1875,CCR
-93,01-05,1,0324,3,1545000,Executive Condominium,19,Strata,99 yrs lease commencing from 2010,OCR
-105,01-05,1,0424,3,1300000,Apartment,12,Strata,Freehold,RCR
-369.9,-,1,0424,3,10180000,Semi-detached,21,Land,Freehold,RCR
-235.5,-,1,1121,1,7600000,Terrace,15,Land,Freehold,RCR
-150.2,-,1,0622,3,4400000,Terrace,15,Land,Freehold,RCR
-154,-,1,0323,3,5188888,Terrace,21,Land,Freehold,RCR
-323.4,-,1,0722,3,6438000,Semi-detached,10,Land,Freehold,CCR
-105,01-05,1,0823,3,1356000,Apartment,12,Strata,Freehold,RCR
-758.2,-,1,1021,3,14500000,Detached,10,Land,Freehold,CCR
-269.4,-,1,0424,3,10888888,Semi-detached,10,Land,Freehold,CCR
-341.2,-,1,0921,3,4150000,Semi-detached,19,Land,Freehold,OCR
-155.5,-,1,1220,3,2400000,Terrace,15,Land,Freehold,RCR
-125,-,1,0421,3,2000000,Terrace,14,Land,Freehold,RCR
-32,01-05,1,0223,3,620000,Apartment,14,Strata,Freehold,RCR
-329.6,-,1,1220,3,5300000,Semi-detached,10,Land,999 yrs lease commencing from 1877,CCR
-282,21-25,1,0321,3,18287000,Apartment,10,Strata,Freehold,CCR
-161.2,-,1,0323,3,4700000,Terrace,19,Land,999 yrs lease commencing from 1883,OCR
-266.6,-,1,0521,3,4220000,Terrace,20,Land,Freehold,RCR
-101,01-05,1,0523,3,1690000,Apartment,15,Strata,Freehold,OCR
-435.2,-,1,0421,3,6300000,Detached,05,Land,Freehold,OCR
-1603.5,-,1,0221,3,28800000,Detached,10,Land,Freehold,CCR
-230,-,1,1222,3,2058000,Strata Terrace,16,Strata,99 yrs lease commencing from 1994,OCR
-110,01-05,1,0723,3,1780000,Apartment,16,Strata,Freehold,OCR
-246.4,-,1,0324,3,3420000,Semi-detached,17,Land,Freehold,OCR
-85,11-15,1,0223,3,1594000,Apartment,02,Strata,99 yrs lease commencing from 2006,CCR
-367.1,-,1,1121,3,6088888,Semi-detached,19,Land,Freehold,OCR
-59,01-05,1,0723,3,1100000,Condominium,15,Strata,Freehold,OCR
-71,36-40,1,0723,1,1988000,Apartment,09,Strata,99 yrs lease commencing from 2020,CCR
-125,06-10,1,0222,3,2960000,Apartment,10,Strata,Freehold,CCR
-135,01-05,1,0524,3,3608000,Apartment,10,Strata,Freehold,CCR
-156,-,1,0622,3,3130000,Terrace,19,Land,Freehold,OCR
-54,01-05,1,0621,3,751000,Apartment,08,Strata,Freehold,RCR
-94,01-05,1,0723,3,1270000,Apartment,14,Strata,Freehold,OCR
-388.6,-,1,0123,2,7450000,Semi-detached,14,Land,Freehold,RCR
-119,01-05,1,0719,3,1498000,Apartment,10,Strata,Freehold,CCR
-137,06-10,1,0524,2,3400000,Condominium,21,Strata,999 yrs lease commencing from 1885,OCR
-200.8,-,1,0420,1,3800000,Terrace,19,Land,Freehold,OCR
-345.8,-,1,1022,3,6600000,Semi-detached,20,Land,Freehold,RCR
-919.4,-,1,0522,3,22000000,Detached,15,Land,Freehold,RCR
-64,21-25,1,0424,2,1390000,Apartment,05,Strata,99 yrs lease commencing from 2019,OCR
-129,01-05,1,0324,3,2030000,Condominium,04,Strata,99 yrs lease commencing from 2002,RCR
-72.7,-,1,0220,3,3280000,Terrace,09,Land,Freehold,CCR
-354.3,-,1,0721,3,4630000,Semi-detached,04,Land,Freehold,RCR
-362.3,-,1,0421,3,4168888,Semi-detached,12,Land,Freehold,RCR
-2987.7,-,1,0321,3,128800800,Detached,10,Land,Freehold,CCR
-109,01-05,1,1023,3,2380000,Condominium,03,Strata,99 yrs lease commencing from 2012,RCR
-105,06-10,1,0124,3,1225000,Condominium,18,Strata,99 yrs lease commencing from 2000,OCR
-117,01-05,1,0322,3,1161000,Apartment,19,Strata,Freehold,OCR
-98,01-05,1,0723,3,1600000,Apartment,15,Strata,Freehold,OCR
-476.4,-,1,0421,3,9550008,Semi-detached,10,Land,Freehold,CCR
-106,01-05,1,0322,3,1508000,Apartment,15,Strata,Freehold,RCR
-189.8,-,1,1220,3,3480000,Terrace,19,Land,Freehold,OCR
-92,06-10,1,0323,3,1828000,Apartment,01,Strata,Freehold,CCR
-43,06-10,1,0623,3,758000,Apartment,14,Strata,Freehold,OCR
-156,11-15,1,0822,3,2709888,Condominium,20,Strata,Freehold,RCR
-213.5,-,1,1121,3,5400300,Terrace,15,Land,Freehold,RCR
-362,-,1,0622,3,2900000,Strata Semi-detached,19,Strata,Freehold,OCR
-177.4,-,1,0323,3,4850000,Terrace,19,Land,999 yrs lease commencing from 1876,OCR
-494.5,-,1,0323,3,14500000,Detached,15,Land,Freehold,RCR
-445.8,-,1,0323,1,15700000,Detached,11,Land,Freehold,CCR
-132,01-05,1,0323,3,2000000,Apartment,12,Strata,Freehold,RCR
-90,11-15,1,0223,3,1148000,Condominium,20,Strata,99 yrs lease commencing from 1996,RCR
-40,06-10,1,0723,3,658000,Apartment,14,Strata,Freehold,RCR
-400.3,-,1,0321,3,6600000,Detached,15,Land,Freehold,RCR
-58,01-05,1,0523,3,1050000,Apartment,15,Strata,Freehold,OCR
-35,01-05,1,0723,3,620000,Apartment,19,Strata,Freehold,OCR
-113,06-10,1,0923,3,1820000,Apartment,15,Strata,Freehold,RCR
-170,01-05,1,0523,3,3980000,Condominium,10,Strata,Freehold,CCR
-58,01-05,1,0723,3,1080000,Apartment,08,Strata,Freehold,RCR
-106,11-15,1,0623,3,2350000,Condominium,09,Strata,Freehold,CCR
-131,06-10,1,0523,3,3500000,Condominium,15,Strata,Freehold,RCR
-248.7,-,1,1122,3,5500000,Terrace,15,Land,Freehold,RCR
-113,06-10,1,1219,3,1510000,Apartment,08,Strata,Freehold,RCR
-142,01-05,1,0122,3,1800000,Apartment,14,Strata,Freehold,RCR
-419,-,1,0321,3,2930000,Strata Terrace,19,Strata,Freehold,OCR
-42,01-05,1,0723,1,1473000,Apartment,09,Strata,999 years leasehold,CCR
-419.3,-,1,0722,3,6380000,Semi-detached,15,Land,Freehold,OCR
-223.8,-,1,0122,3,7600000,Semi-detached,11,Land,Freehold,CCR
-193,01-05,1,0722,3,3698000,Condominium,15,Strata,Freehold,RCR
-202,01-05,1,1122,3,1635000,Apartment,19,Strata,999 yrs lease commencing from 1886,OCR
-1539.3,-,1,0421,3,23200000,Detached,10,Land,Freehold,CCR
-335.7,-,1,0121,3,9100000,Semi-detached,11,Land,Freehold,CCR
-70,01-05,1,0324,3,1030000,Condominium,19,Strata,99 yrs lease commencing from 2012,OCR
-689,-,1,0423,3,5350000,Strata Semi-detached,11,Strata,Freehold,CCR
-40,01-05,1,0324,3,808000,Apartment,15,Strata,Freehold,RCR
-184.9,-,1,0721,3,3200000,Terrace,16,Land,Freehold,OCR
-118,01-05,1,0522,3,1680000,Apartment,15,Strata,Freehold,OCR
-155,21-25,1,1023,3,3200000,Condominium,09,Strata,Freehold,CCR
-314.9,-,1,0421,3,4528288,Semi-detached,16,Land,Freehold,OCR
-38,06-10,1,0723,3,775000,Condominium,14,Strata,99 yrs lease commencing from 2014,RCR
-153.7,-,1,0524,3,5450000,Terrace,09,Land,Freehold,CCR
-113,01-05,1,0523,3,2495000,Condominium,03,Strata,Freehold,RCR
-150,-,1,1223,3,2400000,Terrace,19,Land,99 yrs lease commencing from 1993,OCR
-270,06-10,1,0921,3,2200000,Apartment,21,Strata,Freehold,RCR
-229.3,-,1,0820,3,4200000,Semi-detached,21,Land,Freehold,RCR
-78,01-05,1,0523,3,1100000,Apartment,12,Strata,Freehold,RCR
-158.1,-,1,0423,3,4580000,Terrace,15,Land,Freehold,OCR
-673,-,1,0321,3,12500000,Detached,21,Land,Freehold,OCR
-184.1,-,1,0723,3,3400000,Terrace,19,Land,Freehold,OCR
-62,16-20,1,1223,3,1188000,Apartment,12,Strata,Freehold,RCR
-1157,-,1,1221,3,18680000,Semi-detached,10,Land,Freehold,CCR
-90,06-10,1,0424,3,1180000,Executive Condominium,18,Strata,99 yrs lease commencing from 2012,OCR
-391,01-05,1,0222,3,9790000,Apartment,10,Strata,Freehold,CCR
-147,01-05,1,1122,3,2190000,Condominium,21,Strata,Freehold,OCR
-76,01-05,1,0222,1,1780788,Apartment,10,Strata,Freehold,CCR
-115,01-05,1,0623,3,2400000,Condominium,15,Strata,Freehold,OCR
-281,-,1,0521,3,2450000,Strata Terrace,05,Strata,Freehold,RCR
-114,06-10,1,1022,3,2450000,Apartment,11,Strata,Freehold,CCR
-110,01-05,1,0524,3,1710000,Executive Condominium,20,Strata,99 yrs lease commencing from 2000,RCR
-45,01-05,1,1122,3,960000,Apartment,09,Strata,999 yrs lease commencing from 1841,CCR
-161.5,-,1,0922,3,3375000,Terrace,15,Land,Freehold,OCR
-293.2,-,1,0722,3,12188000,Semi-detached,10,Land,Freehold,CCR
-91,01-05,1,0424,3,1940000,Condominium,20,Strata,Freehold,RCR
-84,01-05,1,1223,3,1400000,Apartment,13,Strata,99 yrs lease commencing from 2010,RCR
-143,26-30,1,0524,3,4310000,Apartment,09,Strata,Freehold,CCR
-74,01-05,1,0424,3,1280000,Apartment,14,Strata,99 yrs lease commencing from 2018,RCR
-215,01-05,1,0122,3,2350000,Apartment,08,Strata,Freehold,RCR
-259,01-05,1,0623,3,4522886,Condominium,04,Strata,99 yrs lease commencing from 2007,CCR
-105,01-05,1,0621,3,1588000,Apartment,12,Strata,Freehold,RCR
-731,-,1,0321,3,13200000,Detached,10,Land,Freehold,CCR
-170,01-05,1,1123,3,3620000,Condominium,10,Strata,Freehold,CCR
-124,01-05,1,0422,3,1900000,Apartment,05,Strata,Freehold,RCR
-128,01-05,1,0121,3,1490000,Apartment,15,Strata,Freehold,OCR
-86,01-05,1,0122,3,1730000,Apartment,11,Strata,Freehold,CCR
-241,01-05,1,0623,3,3780000,Condominium,04,Strata,Freehold,RCR
-39,01-05,1,0424,3,650888,Apartment,08,Strata,Freehold,RCR
-87,01-05,1,0822,3,963000,Apartment,14,Strata,Freehold,RCR
-111,01-05,1,0722,3,1750000,Apartment,13,Strata,Freehold,RCR
-150.4,-,1,0122,3,2750000,Terrace,19,Land,Freehold,OCR
-94,11-15,1,1123,3,1905000,Apartment,09,Strata,Freehold,CCR
-206,-,1,0921,3,5650000,Terrace,10,Land,Freehold,CCR
-176,01-05,1,1122,3,4200000,Apartment,10,Strata,Freehold,CCR
-150.6,-,1,1122,1,5350000,Terrace,15,Land,Freehold,OCR
-569,-,1,0323,3,6280000,Semi-detached,19,Land,Freehold,OCR
-40,01-05,1,0123,3,605000,Apartment,14,Strata,Freehold,RCR
-465.6,-,1,1122,3,6100000,Detached,19,Land,999 yrs lease commencing from 1874,OCR
-2031,-,1,1220,3,25680000,Detached,10,Land,999 yrs lease commencing from 1877,CCR
-180,-,1,1121,3,2200000,Strata Terrace,20,Strata,Freehold,OCR
-195,-,1,1220,3,1595000,Strata Terrace,19,Strata,999 yrs lease commencing from 1878,OCR
-1264.5,-,1,1221,3,17000000,Detached,10,Land,Freehold,CCR
-95,01-05,1,0523,3,1630000,Apartment,15,Strata,Freehold,RCR
-118,01-05,1,0223,3,1160000,Apartment,14,Strata,Freehold,OCR
-45,01-05,1,0823,3,794888,Apartment,08,Strata,Freehold,RCR
-58,01-05,1,1021,3,880000,Apartment,09,Strata,99 yrs lease commencing from 1997,CCR
-89,01-05,1,1222,3,1908000,Apartment,10,Strata,Freehold,CCR
-115,06-10,1,0123,3,1510000,Apartment,12,Strata,Freehold,RCR
-148,01-05,1,0423,3,1730000,Condominium,16,Strata,Freehold,OCR
-33,01-05,1,0723,3,659000,Apartment,15,Strata,Freehold,RCR
-99,01-05,1,0223,3,1310000,Apartment,15,Strata,Freehold,OCR
-177,01-05,1,0522,3,1800000,Apartment,19,Strata,999 yrs lease commencing from 1886,OCR
-501.1,-,1,0623,3,11650000,Detached,15,Land,Freehold,RCR
-87,06-10,1,0923,3,1200000,Condominium,16,Strata,99 yrs lease commencing from 1993,OCR
-179.7,-,1,0423,3,4600000,Terrace,19,Land,Freehold,OCR
-56,06-10,1,0122,3,2292000,Apartment,09,Strata,Freehold,CCR
-262,-,1,0821,3,4310000,Condominium,10,Strata,Freehold,CCR
-190.1,01-05,1,1022,3,4200000,Apartment,14,Strata,Freehold,RCR
-894,01-05,9,0820,3,15200000,Apartment,14,Strata,Freehold,RCR
-217,-,1,1019,3,3630000,Semi-detached,19,Land,Freehold,OCR
-101,01-05,1,0424,3,2350000,Apartment,10,Strata,Freehold,CCR
-730.7,-,1,0623,3,16600000,Detached,11,Land,Freehold,CCR
-89,01-05,1,0922,3,1250000,Apartment,19,Strata,947 yrs lease commencing from 1934,OCR
-134,01-05,1,0423,3,1905000,Apartment,05,Strata,Freehold,RCR
-71,11-15,1,0124,3,965000,Condominium,18,Strata,99 yrs lease commencing from 2008,OCR
-35,01-05,1,0922,3,658000,Apartment,05,Strata,Freehold,RCR
-102,06-10,1,0223,3,1820000,Apartment,03,Strata,Freehold,RCR
-341,06-10,1,0623,3,4000000,Apartment,05,Strata,Freehold,RCR
-52,01-05,1,1122,3,810000,Apartment,19,Strata,Freehold,OCR
-171.9,-,1,0122,3,3300000,Terrace,15,Land,Freehold,OCR
-99,06-10,1,0622,3,1200000,Apartment,14,Strata,Freehold,RCR
-236.7,-,1,0721,3,4250000,Terrace,13,Land,Freehold,RCR
-805.7,-,1,0721,3,16300000,Detached,15,Land,Freehold,RCR
-39,01-05,1,0323,3,730000,Apartment,15,Strata,Freehold,RCR
-79,01-05,1,1022,3,1490000,Apartment,15,Strata,Freehold,RCR
-267,-,1,0723,3,5380000,Terrace,10,Land,999 yrs lease commencing from 1876,CCR
-160,-,1,1022,3,2600000,Strata Terrace,15,Strata,Freehold,RCR
-150,-,1,0223,3,2480000,Terrace,19,Land,99 yrs lease commencing from 1993,OCR
-96,01-05,1,0321,3,1480000,Apartment,15,Strata,Freehold,RCR
-99,01-05,1,0222,1,2190000,Apartment,15,Strata,Freehold,OCR
-298,-,1,0624,3,6136000,Semi-detached,08,Land,Freehold,RCR
-702,21-25,1,0723,3,18000000,Condominium,10,Strata,Freehold,CCR
-95,01-05,1,1222,3,1480000,Apartment,03,Strata,99 yrs lease commencing from 1993,RCR
-414.7,-,1,1023,3,8400000,Semi-detached,21,Land,Freehold,RCR
-134,01-05,1,0323,3,2270000,Condominium,21,Strata,Freehold,OCR
-57,01-05,1,0524,3,1362000,Apartment,14,Strata,Freehold,RCR
-449.5,-,1,0122,3,4750000,Terrace,19,Land,Freehold,OCR
-461.9,-,1,1022,3,6550000,Terrace,15,Land,Freehold,RCR
-66,16-20,1,0622,1,1971000,Apartment,15,Strata,Freehold,RCR
-69,01-05,1,0621,3,1068000,Apartment,15,Strata,Freehold,OCR
-129,01-05,1,0424,3,2280000,Condominium,14,Strata,99 yrs lease commencing from 2000,OCR
-103,21-25,1,0424,2,3050000,Apartment,02,Strata,Freehold,RCR
-298.6,-,1,0422,3,4700000,Semi-detached,16,Land,Freehold,OCR
-70,01-05,1,0723,3,1100000,Apartment,15,Strata,Freehold,OCR
-253,01-05,1,0624,3,2850000,Apartment,21,Strata,Freehold,RCR
-111,01-05,1,0120,3,505000,Apartment,15,Strata,Freehold,RCR
-68,36-40,1,0623,3,1700000,Condominium,03,Strata,99 yrs lease commencing from 2012,RCR
-161,01-05,1,1023,3,2400000,Apartment,08,Strata,Freehold,RCR
-58,01-05,1,0323,3,900000,Apartment,08,Strata,Freehold,RCR
-156.1,-,1,0121,3,2700000,Terrace,15,Land,Freehold,OCR
-178.9,-,1,0321,3,3150000,Terrace,19,Land,Freehold,OCR
-57,06-10,1,0623,3,840000,Apartment,12,Strata,999 yrs lease commencing from 1882,RCR
-106,11-15,1,0323,3,1750000,Apartment,08,Strata,Freehold,RCR
-142,-,1,0523,3,2280000,Condominium,15,Strata,Freehold,RCR
-163,01-05,1,0424,3,3650000,Apartment,10,Strata,Freehold,CCR
-129,01-05,1,1221,3,1828888,Apartment,13,Strata,Freehold,RCR
-134,01-05,1,1022,3,2600000,Condominium,20,Strata,Freehold,RCR
-351.3,-,1,0723,3,6700000,Semi-detached,05,Land,Freehold,RCR
-155,01-05,1,1121,3,1720000,Apartment,15,Strata,Freehold,RCR
-137,01-05,1,0723,3,2960000,Condominium,15,Strata,Freehold,RCR
-137,11-15,1,0424,3,2025000,Executive Condominium,19,Strata,99 yrs lease commencing from 2013,OCR
-390,-,1,0422,3,3500000,Strata Terrace,13,Strata,Freehold,OCR
-157,-,1,1122,3,3680000,Terrace,15,Land,Freehold,OCR
-474.8,-,1,0523,3,13800000,Semi-detached,21,Land,999 yrs lease commencing from 1883,RCR
-359.9,-,1,0721,3,3380000,Terrace,19,Land,Freehold,OCR
-161.2,-,1,0922,3,2850000,Terrace,19,Land,99 yrs lease commencing from 2001,OCR
-160.1,-,1,1023,1,7528888,Terrace,10,Land,Freehold,CCR
-223,-,1,0723,3,3000000,Condominium,14,Strata,Freehold,OCR
-85,01-05,1,0921,3,1100000,Apartment,19,Strata,Freehold,OCR
-136,01-05,1,0223,3,2500000,Condominium,10,Strata,Freehold,CCR
-57,01-05,1,0623,3,980000,Apartment,19,Strata,Freehold,OCR
-328.3,-,1,0321,3,3960000,Semi-detached,16,Land,Freehold,OCR
-63,01-05,1,0621,3,900000,Apartment,15,Strata,Freehold,RCR
-174.2,-,1,0524,3,4200000,Terrace,15,Land,Freehold,OCR
-372,01-05,1,0223,3,6700000,Apartment,10,Strata,Freehold,CCR
-306.7,-,1,0522,3,5075000,Semi-detached,05,Land,Freehold,OCR
-304,-,1,0823,3,3750000,Strata Terrace,11,Strata,Freehold,CCR
-199.2,-,1,0723,3,5700000,Terrace,10,Land,Freehold,CCR
-189.9,-,1,0721,3,5400000,Terrace,11,Land,Freehold,CCR
-200,-,1,0224,3,3594999,Semi-detached,10,Land,99 yrs lease commencing from 1996,CCR
-40,01-05,1,0822,3,645000,Apartment,15,Strata,Freehold,RCR
-245,-,1,0223,3,1659000,Strata Semi-detached,19,Strata,Freehold,OCR
-39,01-05,1,0123,3,650000,Apartment,14,Strata,Freehold,OCR
-325.9,-,1,0424,3,2620000,Terrace,18,Land,99 yrs lease commencing from 1978,OCR
-76,01-05,1,0523,3,1100000,Apartment,15,Strata,Freehold,OCR
-120,01-05,1,0623,3,1768000,Apartment,19,Strata,Freehold,OCR
-118,06-10,1,0524,3,1600000,Condominium,19,Strata,Freehold,OCR
-468.4,-,1,1021,3,6800000,Detached,19,Land,Freehold,OCR
-118,21-25,1,0524,3,1375000,Apartment,15,Strata,99 yrs lease commencing from 1976,OCR
-117,06-10,1,1023,3,1850000,Apartment,12,Strata,Freehold,RCR
-122,06-10,1,1022,3,1910000,Apartment,12,Strata,Freehold,RCR
-77,11-15,1,0322,3,1186000,Apartment,13,Strata,99 yrs lease commencing from 2007,RCR
-129,06-10,1,0223,3,2500000,Condominium,10,Strata,Freehold,CCR
-80,01-05,1,0823,3,1200000,Apartment,14,Strata,Freehold,RCR
-287.9,-,1,0321,3,5100000,Semi-detached,10,Land,Freehold,CCR
-176.7,-,1,0623,3,2480000,Terrace,16,Land,99 yrs lease commencing from 1995,OCR
-159,01-05,1,0723,3,3000000,Condominium,04,Strata,99 yrs lease commencing from 2005,CCR
-186,01-05,1,0324,3,2030000,Apartment,14,Strata,Freehold,OCR
-106,01-05,1,1221,3,1499000,Apartment,12,Strata,Freehold,RCR
-380,-,1,0922,3,4550000,Strata Semi-detached,11,Strata,Freehold,CCR
-179,01-05,1,0623,3,2200000,Apartment,15,Strata,Freehold,RCR
-106,01-05,1,0221,3,1240000,Apartment,15,Strata,Freehold,RCR
-94,01-05,1,0321,3,1100000,Apartment,15,Strata,Freehold,RCR
-150,16-20,1,0321,3,1750000,Condominium,04,Strata,99 yrs lease commencing from 1990,RCR
-55,01-05,1,0723,3,875000,Apartment,19,Strata,Freehold,OCR
-74,26-30,1,0723,1,2273810,Apartment,10,Strata,99 yrs lease commencing from 2018,CCR
-100,01-05,1,1122,3,1350000,Apartment,19,Strata,999 yrs lease commencing from 1886,OCR
-130,01-05,1,0324,3,1750000,Condominium,18,Strata,99 yrs lease commencing from 1997,OCR
-42,01-05,1,1223,3,985000,Apartment,09,Strata,Freehold,CCR
-110,11-15,1,1222,3,2350000,Apartment,10,Strata,Freehold,CCR
-70,01-05,1,1122,3,1350000,Apartment,07,Strata,999 yrs lease commencing from 1827,CCR
-116,11-15,1,1023,3,1780000,Apartment,12,Strata,Freehold,RCR
-85,26-30,1,0823,3,1550000,Condominium,03,Strata,99 yrs lease commencing from 1998,RCR
-95,01-05,1,0719,3,1110000,Apartment,15,Strata,Freehold,OCR
-226.6,-,1,0722,3,4925000,Terrace,15,Land,Freehold,OCR
-136,06-10,1,0223,3,1528000,Apartment,14,Strata,Freehold,RCR
-143,06-10,1,0723,3,1950000,Condominium,21,Strata,99 yrs lease commencing from 1994,OCR
-116,01-05,1,0123,3,1860000,Apartment,15,Strata,Freehold,OCR
-100,06-10,1,1223,3,2280000,Condominium,03,Strata,99 yrs lease commencing from 2013,RCR
-180,-,1,0421,3,2658888,Terrace,13,Land,Freehold,RCR
-92,01-05,1,0220,3,1070000,Apartment,15,Strata,Freehold,RCR
-506,01-05,4,0421,3,8400000,Apartment,07,Strata,999 yrs lease commencing from 1827,CCR
-204.4,-,1,0622,3,3080000,Terrace,21,Land,99 yrs lease commencing from 1995,RCR
-95,01-05,1,1122,3,1800000,Apartment,15,Strata,Freehold,RCR
-209.6,-,1,0922,3,5200000,Terrace,10,Land,Freehold,CCR
-195.3,-,1,1122,3,3760000,Terrace,15,Land,Freehold,RCR
-94,01-05,1,0722,3,1330000,Apartment,15,Strata,Freehold,OCR
-142,01-05,1,1220,3,1365000,Apartment,12,Strata,999 yrs lease commencing from 1882,RCR
-73,01-05,1,0922,3,1180000,Apartment,19,Strata,999 yrs lease commencing from 1875,OCR
-116,01-05,1,0523,3,1580000,Condominium,11,Strata,99 yrs lease commencing from 1975,CCR
-104,41-45,1,1023,3,2225000,Apartment,02,Strata,99 yrs lease commencing from 2002,CCR
-777,-,1,0323,3,3601000,Strata Semi-detached,05,Strata,99 yrs lease commencing from 1994,OCR
-61,31-35,1,1022,3,1408000,Apartment,09,Strata,Freehold,CCR
-35,01-05,1,0623,3,780000,Apartment,10,Strata,Freehold,CCR
-156,01-05,1,0323,3,3220000,Condominium,11,Strata,Freehold,CCR
-159,01-05,1,0822,3,3088000,Condominium,09,Strata,Freehold,CCR
-129,06-10,1,0423,3,3430000,Apartment,09,Strata,Freehold,CCR
-572.3,-,1,1021,3,5050000,Detached,19,Land,Freehold,OCR
-1596,01-05,14,0222,3,27000000,Apartment,14,Strata,Freehold,RCR
-419.9,-,1,0322,3,12500000,Detached,10,Land,Freehold,CCR
-236,-,1,0922,1,6448400,Terrace,05,Land,Freehold,OCR
-85,06-10,1,0823,2,2450000,Apartment,09,Strata,99 yrs lease commencing from 2019,CCR
-57,26-30,1,0424,3,1150000,Apartment,12,Strata,Freehold,RCR
-92,01-05,1,1222,3,1230000,Apartment,15,Strata,Freehold,RCR
-153.3,-,1,0721,3,4300000,Terrace,09,Land,Freehold,CCR
-196.4,-,1,0621,3,4150000,Terrace,16,Land,Freehold,OCR
-564,-,1,0422,3,3200000,Strata Terrace,19,Strata,Freehold,OCR
-90,01-05,1,0424,3,1360000,Condominium,16,Strata,99 yrs lease commencing from 2007,OCR
-151.1,-,1,0622,3,3850000,Terrace,14,Land,Freehold,RCR
-113,01-05,1,0622,3,1730000,Apartment,15,Strata,Freehold,OCR
-144.5,-,1,0123,3,3260000,Terrace,15,Land,Freehold,RCR
-108,16-20,1,0224,1,3601000,Apartment,11,Strata,Freehold,CCR
-41,01-05,1,0423,3,955000,Apartment,16,Strata,Freehold,OCR
-104,11-15,1,0723,3,1840000,Apartment,08,Strata,Freehold,RCR
-239,-,1,0722,3,5890000,Terrace,10,Land,Freehold,CCR
-181.8,-,1,0523,3,4500000,Terrace,21,Land,Freehold,RCR
-79,01-05,1,0423,3,1500000,Condominium,16,Strata,Freehold,OCR
-65,01-05,1,0622,2,1030000,Apartment,14,Strata,Freehold,RCR
-140,01-05,1,1121,3,2250000,Apartment,10,Strata,Freehold,CCR
-91,01-05,1,0324,1,2415000,Apartment,15,Strata,Freehold,RCR
-917.2,-,1,0321,3,18250000,Detached,11,Land,Freehold,CCR
-242,06-10,1,0623,3,5700000,Condominium,09,Strata,Freehold,CCR
-1720.5,-,1,1122,3,29700000,Detached,21,Land,999 yrs lease commencing from 1879,RCR
-153.9,-,1,0223,3,3400000,Terrace,19,Land,Freehold,RCR
-199.8,-,1,0623,3,4800000,Terrace,15,Land,Freehold,RCR
-78,01-05,1,1023,3,1440000,Apartment,13,Strata,99 yrs lease commencing from 2012,RCR
-66,06-10,1,0823,3,1250000,Apartment,15,Strata,Freehold,RCR
-46,31-35,1,0224,1,1450000,Condominium,03,Strata,99 yrs lease commencing from 2020,RCR
-145,06-10,1,0623,3,3350000,Condominium,10,Strata,Freehold,CCR
-92,01-05,1,0723,3,1450000,Apartment,15,Strata,Freehold,OCR
-535,-,1,0423,3,14380000,Semi-detached,10,Land,Freehold,CCR
-189,11-15,1,0423,3,2280000,Apartment,19,Strata,Freehold,OCR
-116,01-05,1,0922,1,3961000,Condominium,10,Strata,Freehold,CCR
-1282.2,-,1,0819,3,11950000,Detached,13,Land,Freehold,OCR
-82,01-05,1,0922,3,1035000,Apartment,14,Strata,Freehold,RCR
-72,01-05,1,0624,3,1430000,Condominium,11,Strata,Freehold,CCR
-124,01-05,1,0623,3,2080000,Condominium,05,Strata,Freehold,RCR
-180,11-15,1,0421,3,3600000,Apartment,11,Strata,Freehold,CCR
-1118.2,-,1,0819,3,8000000,Detached,14,Land,Freehold,OCR
-154,06-10,1,0223,3,2000000,Condominium,12,Strata,Freehold,RCR
-119,06-10,1,1123,3,1400000,Condominium,18,Strata,99 yrs lease commencing from 2008,OCR
-254,06-10,1,0223,3,2733000,Apartment,19,Strata,Freehold,OCR
-116,01-05,1,0723,3,2320000,Condominium,10,Strata,999 yrs lease commencing from 1875,CCR
-224,01-05,1,0223,3,5500000,Apartment,10,Strata,999 yrs lease commencing from 1876,CCR
-219.4,-,1,1122,3,4400000,Terrace,16,Land,Freehold,OCR
-101,01-05,1,0722,3,1300000,Apartment,19,Strata,Freehold,OCR
-89,01-05,1,0922,3,1400000,Apartment,15,Strata,Freehold,OCR
-52,01-05,1,1022,3,1100000,Apartment,09,Strata,Freehold,CCR
-157,01-05,1,1221,3,2200000,Apartment,15,Strata,Freehold,RCR
-217,-,1,0221,3,2230000,Strata Terrace,05,Strata,Freehold,RCR
-116,01-05,1,0821,3,1550000,Apartment,15,Strata,Freehold,RCR
-115,06-10,1,1221,3,2020000,Apartment,15,Strata,Freehold,RCR
-1527.9,-,1,1019,3,31500000,Detached,10,Land,Freehold,CCR
-166.6,-,1,0122,3,2920000,Terrace,19,Land,Freehold,OCR
-203.4,-,1,0422,3,3950000,Terrace,05,Land,Freehold,OCR
-49,06-10,1,0524,3,1080000,Apartment,09,Strata,Freehold,CCR
-947.3,-,1,0621,3,13000000,Detached,13,Land,Freehold,OCR
-85,-,1,0821,3,1960000,Terrace,20,Land,Freehold,RCR
-256.5,-,1,0122,3,2588888,Terrace,16,Land,99 yrs lease commencing from 1995,OCR
-159,-,1,0623,3,1550000,Condominium,17,Strata,999 yrs lease commencing from 1885,OCR
-120,11-15,1,1222,3,2580000,Apartment,10,Strata,Freehold,CCR
-51,01-05,1,0723,3,985000,Apartment,15,Strata,Freehold,RCR
-404.1,-,1,0421,3,6880000,Detached,16,Land,Freehold,OCR
-149,01-05,1,0120,3,1980000,Apartment,08,Strata,999999 yrs lease commencing from 1958,RCR
-479,-,1,0522,3,6800000,Semi-detached,19,Land,Freehold,OCR
-300,-,1,0622,3,7518888,Semi-detached,16,Land,Freehold,OCR
-118,01-05,1,0223,3,1580000,Condominium,21,Strata,99 yrs lease commencing from 2003,OCR
-176.9,-,1,0122,3,3980000,Terrace,15,Land,Freehold,OCR
-121,01-05,1,0722,3,1798000,Apartment,05,Strata,Freehold,RCR
-107,01-05,1,0722,3,1280000,Apartment,15,Strata,Freehold,OCR
-135,01-05,1,0223,3,1600000,Apartment,14,Strata,Freehold,RCR
-133.5,-,1,0222,3,3000000,Terrace,14,Land,Freehold,RCR
-412.3,-,1,0923,3,9430000,Detached,21,Land,Freehold,OCR
-80,11-15,1,0823,3,1390000,Apartment,11,Strata,Freehold,CCR
-200.1,-,1,0222,3,5888000,Semi-detached,10,Land,999 yrs lease commencing from 1876,CCR
-179,01-05,1,0921,3,2800000,Apartment,10,Strata,Freehold,CCR
-137,01-05,1,0222,3,1500000,Apartment,15,Strata,Freehold,OCR
-164,01-05,1,0423,3,3100000,Condominium,11,Strata,99 yrs lease commencing from 1996,CCR
-183,06-10,1,0524,3,4500000,Condominium,21,Strata,Freehold,RCR
-121,06-10,1,0724,3,1980000,Condominium,21,Strata,Freehold,OCR
-127,11-15,1,0523,3,3370000,Condominium,09,Strata,Freehold,CCR
-187.5,-,1,0622,3,4050000,Terrace,05,Land,Freehold,RCR
-45,06-10,1,1023,3,810000,Apartment,09,Strata,Freehold,CCR
-45,01-05,1,0623,3,983000,Apartment,05,Strata,Freehold,RCR
-252.7,-,1,0822,2,6250000,Semi-detached,16,Land,Freehold,OCR
-168.6,-,1,0623,3,3358000,Terrace,19,Land,Freehold,OCR
-111,06-10,1,0523,3,1850000,Apartment,14,Strata,Freehold,RCR
-156,01-05,1,1023,3,2700000,Condominium,11,Strata,999 yrs lease commencing from 1878,CCR
-87,01-05,1,1020,3,833000,Apartment,14,Strata,Freehold,RCR
-170,01-05,1,0322,3,2400000,Apartment,11,Strata,Freehold,CCR
-82,01-05,1,0323,1,1749400,Condominium,14,Strata,Freehold,OCR
-121,01-05,1,1223,3,1528000,Apartment,14,Strata,99 yrs lease commencing from 1995,RCR
-266,01-05,1,1023,3,4000000,Apartment,10,Strata,Freehold,CCR
-230.2,-,1,0424,3,4200000,Terrace,15,Land,Freehold,RCR
-103,01-05,1,0723,3,1800000,Condominium,15,Strata,Freehold,OCR
-93,11-15,1,0723,3,2540000,Condominium,10,Strata,Freehold,CCR
-165,11-15,1,0424,3,4226880,Apartment,10,Strata,Freehold,CCR
-110,01-05,1,0723,3,1600000,Apartment,13,Strata,Freehold,OCR
-541,-,1,1122,3,10380000,Detached,21,Land,999 yrs lease commencing from 1885,RCR
-114,01-05,1,0523,3,1900000,Condominium,16,Strata,Freehold,OCR
-328.4,-,1,0422,3,3500000,Semi-detached,16,Land,99 yrs lease commencing from 1995,OCR
-170.9,-,1,0820,3,3880000,Terrace,10,Land,Freehold,CCR
-288,-,1,0521,3,2888888,Condominium,21,Strata,Freehold,RCR
-605,-,1,0922,3,7488888,Strata Detached,11,Strata,Freehold,CCR
-69,01-05,1,0524,3,2000000,Apartment,09,Strata,99 yrs lease commencing from 1979,CCR
-174,01-05,1,0921,3,2500000,Apartment,11,Strata,Freehold,CCR
-197.4,-,1,0921,3,3500000,Terrace,21,Land,Freehold,RCR
-99,06-10,1,0623,3,1165000,Condominium,18,Strata,99 yrs lease commencing from 1997,OCR
-56,06-10,1,0123,3,1123000,Apartment,08,Strata,Freehold,RCR
-63,41-45,1,0424,3,1170000,Apartment,01,Strata,99 yrs lease commencing from 2002,CCR
-96,06-10,1,1220,3,1650000,Apartment,07,Strata,999 yrs lease commencing from 1827,CCR
-53,06-10,1,0822,3,1138000,Apartment,15,Strata,Freehold,RCR
-228.8,-,1,0521,3,3380000,Terrace,19,Land,Freehold,OCR
-79,16-20,1,0523,3,918000,Apartment,02,Strata,99 yrs lease commencing from 1973,RCR
-166.8,-,1,0124,3,3388888,Terrace,19,Land,Freehold,OCR
-249,16-20,1,1123,3,7350000,Condominium,09,Strata,Freehold,CCR
-58,06-10,1,0424,3,1360000,Condominium,03,Strata,99 yrs lease commencing from 2015,RCR
-159,01-05,1,0424,3,1500000,Condominium,17,Strata,Freehold,OCR
-145,01-05,1,0321,3,3050000,Apartment,09,Strata,Freehold,CCR
-98,01-05,1,0922,3,1278000,Apartment,05,Strata,Freehold,RCR
-159,01-05,1,1022,3,1960000,Apartment,15,Strata,Freehold,RCR
-177,16-20,1,0123,3,4500000,Apartment,10,Strata,Freehold,CCR
-67,01-05,1,0323,3,1000000,Apartment,15,Strata,Freehold,RCR
-99,06-10,1,0723,3,1578000,Apartment,21,Strata,Freehold,RCR
-70,01-05,1,0523,3,1120000,Apartment,03,Strata,Freehold,RCR
-94,01-05,1,1221,3,1610000,Apartment,01,Strata,99 yrs lease commencing from 1992,RCR
-60,01-05,1,0523,3,928000,Condominium,15,Strata,Freehold,RCR
-255.6,-,1,0523,3,3900000,Terrace,14,Land,Freehold,OCR
-47,16-20,1,0424,3,1150000,Apartment,02,Strata,Freehold,RCR
-152,01-05,1,0722,3,2300000,Apartment,09,Strata,Freehold,CCR
-80,01-05,1,1021,3,928000,Apartment,19,Strata,Freehold,OCR
-159,01-05,1,1020,3,2430000,Condominium,13,Strata,Freehold,RCR
-103,06-10,1,0424,3,1390000,Condominium,18,Strata,99 yrs lease commencing from 2011,OCR
-149,01-05,1,1222,3,3380000,Condominium,10,Strata,Freehold,CCR
-110,01-05,1,0321,3,1715000,Condominium,11,Strata,Freehold,CCR
-124,01-05,1,0823,3,1910000,Apartment,13,Strata,Freehold,RCR
-100,11-15,1,0524,3,1905000,Condominium,12,Strata,99 yrs lease commencing from 2011,RCR
-140,21-25,1,1123,3,2731000,Condominium,11,Strata,99 yrs lease commencing from 2008,CCR
-97,06-10,1,0424,3,1738000,Condominium,21,Strata,Freehold,RCR
-431,-,1,0721,3,3850000,Strata Detached,15,Strata,Freehold,RCR
-100,01-05,1,0722,3,1280000,Executive Condominium,19,Strata,99 yrs lease commencing from 2016,OCR
-140,01-05,1,0524,3,2230000,Condominium,05,Strata,Freehold,RCR
-217,06-10,1,0622,3,2850000,Apartment,11,Strata,Freehold,CCR
-121,16-20,1,0424,3,2530000,Condominium,11,Strata,Freehold,CCR
-325,11-15,1,0723,3,5500000,Apartment,10,Strata,Freehold,CCR
-202.8,-,1,0322,3,2500000,Terrace,15,Land,Freehold,OCR
-1404.8,-,1,0724,3,23000000,Detached,10,Land,Freehold,CCR
-115,01-05,1,0722,3,2600000,Apartment,11,Strata,Freehold,CCR
-154.2,-,1,0822,3,3020000,Terrace,16,Land,Freehold,OCR
-72,01-05,1,1121,3,905000,Apartment,19,Strata,999 yrs lease commencing from 1886,OCR
-58,06-10,1,0922,1,1729000,Condominium,09,Strata,99 yrs lease commencing from 2018,CCR
-269,01-05,1,0822,3,7552000,Condominium,15,Strata,Freehold,RCR
-201,01-05,1,0424,1,7500000,Condominium,10,Strata,Freehold,CCR
-66,01-05,1,0823,3,1200000,Apartment,11,Strata,Freehold,CCR
-78,01-05,1,0723,3,1160000,Condominium,16,Strata,Freehold,OCR
-172.3,01-05,4,0820,3,4000000,Apartment,15,Land,Freehold,RCR
-320,-,1,0223,3,4550000,Semi-detached,15,Land,Freehold,OCR
-134,11-15,1,0922,3,2680000,Apartment,09,Strata,993 yrs lease commencing from 1973,CCR
-2397.8,-,1,0521,3,32500000,Detached,10,Land,Freehold,CCR
-137,01-05,1,0623,3,2000000,Condominium,19,Strata,999 yrs lease commencing from 1883,OCR
-51,01-05,1,1122,3,770000,Apartment,15,Strata,Freehold,OCR
-105,11-15,1,0821,3,1688000,Apartment,14,Strata,Freehold,RCR
-176,36-40,1,0324,3,3265000,Condominium,03,Strata,99 yrs lease commencing from 2006,RCR
-82,01-05,1,1023,3,1730000,Condominium,04,Strata,99 yrs lease commencing from 1999,RCR
-131,21-25,1,1123,3,2750000,Apartment,11,Strata,Freehold,CCR
-149,16-20,1,0723,3,2980000,Condominium,15,Strata,Freehold,RCR
-97,06-10,1,1023,3,1350000,Apartment,08,Strata,99 yrs lease commencing from 1995,RCR
-1211.2,-,1,0322,3,35500000,Detached,10,Land,Freehold,CCR
-114,06-10,1,0523,1,2320000,Apartment,14,Strata,Freehold,RCR
-153,01-05,1,0524,3,2400000,Apartment,19,Strata,Freehold,OCR
-109,01-05,1,0922,3,1600000,Apartment,14,Strata,Freehold,OCR
-264.4,-,1,0621,3,5500000,Semi-detached,14,Land,Freehold,OCR
-51,16-20,1,0723,1,1538000,Apartment,09,Strata,Freehold,CCR
-65,16-20,1,1223,3,1350000,Condominium,20,Strata,99 yrs lease commencing from 2013,OCR
-439.7,-,1,0722,3,5200000,Semi-detached,13,Land,Freehold,RCR
-158,01-05,1,0723,3,2480000,Condominium,10,Strata,Freehold,CCR
-130,11-15,1,0222,1,2805000,Apartment,05,Strata,99 yrs lease commencing from 2019,RCR
-38,01-05,1,0422,3,568888,Apartment,14,Strata,Freehold,RCR
-431.1,-,1,0121,3,5200000,Semi-detached,16,Land,Freehold,OCR
-1339.3,-,1,0521,3,24500000,Detached,10,Land,Freehold,CCR
-100,01-05,1,0121,3,1250000,Apartment,15,Strata,Freehold,RCR
-204.8,-,1,0620,3,3930000,Semi-detached,20,Land,Freehold,RCR
-1319.1,-,1,0923,3,16100000,Detached,15,Land,Freehold,OCR
-451.3,01-05,2,0524,3,8000000,Apartment,11,Land,Freehold,CCR
-80,06-10,1,1022,3,923777,Apartment,14,Strata,99 yrs lease commencing from 2002,OCR
-40,11-15,1,0323,2,1180000,Apartment,21,Strata,Freehold,RCR
-180,-,1,0922,3,2000000,Condominium,17,Strata,946 yrs lease commencing from 1938,OCR
-96,11-15,1,0723,3,2420000,Condominium,09,Strata,999 yrs lease commencing from 1841,CCR
-172.7,-,1,0821,3,3580000,Terrace,19,Land,Freehold,OCR
-257,-,1,0523,3,4800000,Strata Terrace,10,Strata,Freehold,CCR
-403.2,-,1,0423,3,4950000,Semi-detached,19,Land,Freehold,OCR
-344.1,-,1,0524,3,5088888,Semi-detached,16,Land,Freehold,OCR
-107,06-10,1,0723,3,1680000,Condominium,19,Strata,99 yrs lease commencing from 2000,OCR
-308,-,1,0921,3,5200000,Semi-detached,05,Land,Freehold,RCR
-57,06-10,1,0123,3,1310000,Apartment,10,Strata,Freehold,CCR
-454,-,1,0423,3,3350000,Strata Terrace,19,Strata,Freehold,OCR
-138,01-05,1,1119,3,1300000,Apartment,19,Strata,Freehold,OCR
-106,06-10,1,0723,3,2043000,Condominium,12,Strata,Freehold,RCR
-392.8,-,1,0424,3,5550000,Semi-detached,19,Land,999 yrs lease commencing from 1883,OCR
-95,31-35,1,0523,3,2380000,Apartment,07,Strata,99 yrs lease commencing from 2011,CCR
-121,01-05,1,0923,3,1600000,Condominium,16,Strata,99 yrs lease commencing from 1995,OCR
-214.1,-,1,0923,3,4080000,Terrace,19,Land,Freehold,OCR
-518.8,-,1,0722,3,7880000,Detached,21,Land,Freehold,RCR
-404.6,-,1,0921,1,8080000,Detached,13,Land,Freehold,OCR
-175,01-05,1,0521,3,2558000,Apartment,10,Strata,Freehold,CCR
-433.1,-,1,0524,3,8200000,Detached,03,Land,Freehold,RCR
-54,01-05,1,0121,3,1050000,Apartment,07,Strata,999 yrs lease commencing from 1827,CCR
-333,01-05,1,0122,3,6880000,Condominium,09,Strata,Freehold,CCR
-187,06-10,1,0822,3,5000000,Apartment,09,Strata,Freehold,CCR
-943.4,-,1,0220,3,12810000,Detached,15,Land,Freehold,RCR
-265.1,-,1,0623,3,5580000,Terrace,19,Land,Freehold,OCR
-444.7,-,1,0721,3,6400000,Semi-detached,20,Land,Freehold,RCR
-508.4,-,1,0223,3,15000000,Detached,15,Land,Freehold,OCR
-114,06-10,1,1122,3,1210000,Apartment,14,Strata,Freehold,RCR
-243.9,-,1,0424,3,2850000,Semi-detached,14,Land,99 yrs lease commencing from 1995,OCR
-565,-,1,0222,3,5248000,Strata Terrace,05,Strata,Freehold,RCR
-156.8,-,1,1223,3,3280000,Terrace,19,Land,Freehold,OCR
-89,21-25,1,0523,3,2150000,Condominium,11,Strata,Freehold,CCR
-137,06-10,1,0124,3,2118888,Apartment,12,Strata,Freehold,RCR
-474.5,-,1,0922,3,6180000,Semi-detached,19,Land,Freehold,OCR
-319.9,-,1,1022,3,8000000,Semi-detached,15,Land,Freehold,RCR
-268,06-10,1,0723,3,12800000,Condominium,10,Strata,Freehold,CCR
-137,01-05,1,1223,3,2575000,Condominium,15,Strata,99 yrs lease commencing from 1994,RCR
-95,01-05,1,0221,3,1158000,Apartment,14,Strata,Freehold,OCR
-146,-,1,1220,3,3900000,Terrace,12,Land,Freehold,RCR
-274.3,-,1,1020,3,2900000,Terrace,14,Land,Freehold,OCR
-1252.5,-,1,0722,3,27280000,Detached,11,Land,Freehold,CCR
-90,06-10,1,0624,3,1050000,Executive Condominium,18,Strata,99 yrs lease commencing from 1996,OCR
-144,16-20,1,0822,3,4600000,Condominium,09,Strata,Freehold,CCR
-42,06-10,1,0523,3,670000,Apartment,14,Strata,Freehold,RCR
-123,06-10,1,0522,3,1255000,Apartment,12,Strata,99 yrs lease commencing from 2001,RCR
-157.6,-,1,0921,3,3410000,Terrace,20,Land,Freehold,RCR
-389.5,-,1,1221,3,4728000,Semi-detached,19,Land,Freehold,OCR
-116,06-10,1,1123,3,1960000,Condominium,21,Strata,Freehold,OCR
-307,-,1,1220,3,2368000,Strata Terrace,16,Strata,Freehold,OCR
-310.5,-,1,0424,3,5588888,Semi-detached,20,Land,Freehold,OCR
-97,01-05,1,0722,3,2070000,Apartment,11,Strata,Freehold,CCR
-112,06-10,1,1022,3,1900000,Apartment,11,Strata,Freehold,CCR
-164,01-05,1,0921,3,2600000,Condominium,11,Strata,Freehold,CCR
-212.3,-,1,0721,3,2750000,Terrace,13,Land,Freehold,RCR
-155,01-05,1,0822,3,2200000,Apartment,05,Strata,Freehold,RCR
-93,01-05,1,0821,3,1250000,Apartment,14,Strata,Freehold,OCR
-90,11-15,1,0424,3,2035000,Apartment,13,Strata,99 yrs lease commencing from 2014,RCR
-66,01-05,1,0922,3,1110000,Apartment,11,Strata,Freehold,CCR
-243.4,-,1,0421,3,5830000,Terrace,10,Land,Freehold,CCR
-402,-,1,0721,3,3700000,Strata Terrace,15,Strata,Freehold,OCR
-228,-,1,0423,3,2128888,Strata Terrace,19,Strata,99 yrs lease commencing from 2000,RCR
-119,01-05,1,0621,3,1410000,Apartment,15,Strata,Freehold,RCR
-270,01-05,1,1122,1,13500000,Apartment,10,Strata,Freehold,CCR
-124,06-10,1,0322,3,1260000,Apartment,08,Strata,Freehold,RCR
-115.8,-,1,1122,3,4500000,Terrace,08,Land,Freehold,RCR
-273.5,-,1,0723,3,4550000,Semi-detached,19,Land,999 yrs lease commencing from 1876,OCR
-120,01-05,1,1123,3,3100000,Condominium,21,Strata,Freehold,RCR
-450.2,-,1,1020,3,7200000,Detached,11,Land,Freehold,CCR
-44,06-10,1,0524,3,810000,Condominium,18,Strata,99 yrs lease commencing from 2017,OCR
-227,-,1,0821,3,2350000,Strata Terrace,13,Strata,Freehold,OCR
-173,-,1,1022,3,1500000,Terrace,16,Land,Freehold,OCR
-60,01-05,1,0523,3,1250000,Apartment,11,Strata,Freehold,CCR
-109,01-05,1,0324,3,2140000,Condominium,21,Strata,99 yrs lease commencing from 1999,RCR
-104,01-05,1,0521,3,860000,Apartment,14,Strata,Freehold,RCR
-211,21-25,1,0422,1,3900000,Apartment,08,Strata,99 yrs lease commencing from 2017,RCR
-354.1,-,1,0121,3,6100000,Semi-detached,10,Land,Freehold,CCR
-244.8,-,1,0423,3,6350000,Terrace,15,Land,Freehold,OCR
-119,06-10,1,0524,3,1850000,Apartment,12,Strata,Freehold,RCR
-118,01-05,1,0421,3,1450000,Apartment,05,Strata,Freehold,RCR
-141,01-05,1,0522,3,2800000,Apartment,10,Strata,Freehold,CCR
-249.5,-,1,0523,3,5050000,Terrace,15,Land,Freehold,RCR
-383,-,1,0720,3,2018000,Strata Semi-detached,19,Strata,999 yrs lease commencing from 1886,OCR
-107,01-05,1,0920,3,1220000,Apartment,10,Strata,Freehold,CCR
-208.8,-,1,0424,3,3650000,Terrace,19,Land,Freehold,OCR
-139.5,-,1,0521,3,2800000,Terrace,20,Land,Freehold,RCR
-87,06-10,1,0324,2,1930000,Apartment,19,Strata,99 yrs lease commencing from 2018,OCR
-38,06-10,1,0423,3,740000,Apartment,14,Strata,Freehold,RCR
-85,01-05,1,1122,3,1580000,Apartment,15,Strata,Freehold,RCR
-381.2,-,1,0422,3,4908000,Semi-detached,16,Land,Freehold,OCR
-87,01-05,1,1121,3,1390000,Apartment,15,Strata,Freehold,RCR
-79,01-05,1,0722,3,925000,Apartment,14,Strata,Freehold,RCR
-50,01-05,1,0922,3,740000,Apartment,14,Strata,Freehold,OCR
-99,01-05,1,0121,3,1160000,Apartment,14,Strata,Freehold,RCR
-106,06-10,1,0424,3,1758888,Apartment,12,Strata,999 yrs lease commencing from 1882,RCR
-46,06-10,1,0423,3,722000,Apartment,14,Strata,Freehold,RCR
-250,11-15,1,1222,3,12000000,Condominium,09,Strata,Freehold,CCR
-123,01-05,1,1022,3,1438000,Apartment,08,Strata,99 yrs lease commencing from 1995,RCR
-262,01-05,1,0523,3,4850008,Condominium,04,Strata,99 yrs lease commencing from 2006,CCR
-93,01-05,1,0623,3,1200000,Condominium,17,Strata,Freehold,OCR
-52,11-15,1,0922,3,1200000,Apartment,15,Strata,Freehold,RCR
-182,06-10,1,0122,3,3700000,Condominium,10,Strata,Freehold,CCR
-90,01-05,1,1221,3,1420000,Apartment,12,Strata,Freehold,RCR
-1398.7,-,1,0321,3,14500000,Detached,21,Land,Freehold,OCR
-384,-,1,0521,3,2750000,Strata Semi-detached,13,Strata,Freehold,RCR
-145.6,-,1,0921,3,3400000,Terrace,19,Land,Freehold,OCR
-664.4,-,1,0121,3,1770000,Detached,21,Land,99 yrs lease commencing from 1952,RCR
-89,06-10,1,0623,3,1820000,Condominium,11,Strata,99 yrs lease commencing from 1997,CCR
-176,01-05,1,0524,3,2720000,Apartment,13,Strata,Freehold,OCR
-230,06-10,1,0723,3,3180000,Condominium,14,Strata,Freehold,OCR
-138,01-05,1,0624,3,1905000,Condominium,05,Strata,Freehold,RCR
-142,06-10,1,0223,3,1265000,Condominium,18,Strata,99 yrs lease commencing from 1991,OCR
-61,06-10,1,0922,3,1470000,Apartment,11,Strata,Freehold,CCR
-92,01-05,1,0522,3,1421000,Apartment,15,Strata,Freehold,OCR
-193.6,-,1,0822,3,4000000,Terrace,16,Land,Freehold,OCR
-121,01-05,1,0124,3,2228000,Condominium,05,Strata,956 yrs lease commencing from 1928,OCR
-220.7,-,1,0722,3,2810000,Terrace,19,Land,99 yrs lease commencing from 1996,OCR
-41,06-10,1,0822,3,841000,Apartment,09,Strata,999 yrs lease commencing from 1841,CCR
-541.1,-,1,1121,3,5180000,Detached,17,Land,Freehold,OCR
-356.8,-,1,0421,3,6200000,Semi-detached,10,Land,Freehold,CCR
-163,01-05,1,0223,3,3690000,Condominium,10,Strata,Freehold,CCR
-229.8,-,1,1121,3,3830000,Semi-detached,11,Land,99 yrs lease commencing from 2000,CCR
-245,21-25,1,1221,3,5840000,Condominium,15,Strata,Freehold,RCR
-95,01-05,1,1023,3,1080000,Apartment,19,Strata,999 yrs lease commencing from 1883,OCR
-39,06-10,1,0523,3,660000,Apartment,08,Strata,Freehold,RCR
-270,-,1,0322,3,2975000,Strata Terrace,04,Strata,Freehold,RCR
-144,01-05,1,0522,3,3060000,Apartment,11,Strata,Freehold,CCR
-122,01-05,1,0322,1,2169482,Apartment,14,Strata,Freehold,OCR
-111,06-10,1,0723,3,1450000,Condominium,16,Strata,99 yrs lease commencing from 1998,OCR
-110,06-10,1,0523,3,1150000,Apartment,14,Strata,Freehold,RCR
-46,01-05,1,0923,3,815000,Apartment,19,Strata,Freehold,OCR
-55,01-05,1,1222,3,1050000,Apartment,05,Strata,Freehold,RCR
-227,01-05,1,0423,3,2650000,Apartment,10,Strata,Freehold,CCR
-98,01-05,1,0923,3,1390000,Apartment,15,Strata,Freehold,RCR
-46,01-05,1,0623,3,950000,Apartment,10,Strata,Freehold,CCR
-335.1,-,1,0921,3,4000000,Semi-detached,19,Land,Freehold,OCR
-301.5,-,1,0822,1,12350000,Terrace,11,Land,Freehold,OCR
-148,01-05,1,1022,3,2500000,Condominium,15,Strata,99 yrs lease commencing from 2004,RCR
-107,01-05,1,0821,3,1200000,Apartment,14,Strata,Freehold,RCR
-98,11-15,1,1223,3,2310000,Condominium,09,Strata,99 yrs lease commencing from 2010,CCR
-55,21-25,1,0624,3,1310000,Apartment,15,Strata,99 yrs lease commencing from 2016,OCR
-182,11-15,1,0223,3,4000000,Condominium,10,Strata,999 yrs lease commencing from 1885,CCR
-98,16-20,1,0424,3,2050000,Condominium,12,Strata,Freehold,RCR
-123,01-05,1,0324,3,1570000,Condominium,17,Strata,Freehold,OCR
-292.7,-,1,0720,3,4100000,Terrace,15,Land,Freehold,RCR
-119,06-10,1,0723,3,2420000,Apartment,15,Strata,Freehold,RCR
-43,06-10,1,0723,3,950000,Apartment,09,Strata,999 yrs lease commencing from 1841,CCR
-235.7,-,1,0621,3,3050000,Terrace,16,Land,999 yrs lease commencing from 1878,OCR
-76,06-10,1,0922,3,960000,Apartment,08,Strata,Freehold,RCR
-308,16-20,1,0422,3,6900000,Condominium,10,Strata,999 yrs lease commencing from 1877,CCR
-330.5,-,1,0220,3,3550000,Semi-detached,19,Land,999 yrs lease commencing from 1875,OCR
-30,01-05,1,0623,3,845000,Apartment,10,Strata,Freehold,CCR
-248,01-05,1,1022,3,2880000,Apartment,08,Strata,Freehold,RCR
-299,01-05,1,0322,3,3100000,Apartment,09,Strata,Freehold,CCR
-374.8,-,1,0623,3,3470000,Semi-detached,16,Land,99 yrs lease commencing from 1994,OCR
-220,01-05,1,0524,1,7678000,Condominium,11,Strata,Freehold,CCR
-227.6,-,1,0422,3,5380000,Semi-detached,15,Land,Freehold,RCR
-39,01-05,1,1123,3,618000,Apartment,14,Strata,Freehold,RCR
-108,11-15,1,1023,3,1670000,Condominium,05,Strata,99 yrs lease commencing from 2000,OCR
-97,01-05,1,0423,3,1498000,Condominium,19,Strata,Freehold,OCR
-100,06-10,1,0723,3,1805000,Apartment,12,Strata,Freehold,RCR
-112,01-05,1,1022,3,2080000,Apartment,09,Strata,Freehold,CCR
-114,01-05,1,0123,3,2100000,Condominium,10,Strata,Freehold,CCR
-174,21-25,1,0422,3,1910000,Apartment,21,Strata,99 yrs lease commencing from 1979,RCR
-33,01-05,1,0523,3,620000,Apartment,15,Strata,Freehold,RCR
-71.7,-,1,0522,3,2350000,Terrace,12,Land,Freehold,RCR
-47,06-10,1,0523,3,800000,Apartment,12,Strata,Freehold,RCR
-111,01-05,1,0223,2,2400000,Apartment,15,Strata,Freehold,OCR
-56,06-10,1,1123,3,960000,Apartment,19,Strata,99 yrs lease commencing from 2011,OCR
-264,06-10,1,0523,3,8100000,Condominium,10,Strata,Freehold,CCR
-243.9,-,1,0819,3,4018000,Semi-detached,21,Land,999 yrs lease commencing from 1879,RCR
-250.1,-,1,0723,3,4800000,Terrace,15,Land,Freehold,RCR
-161.2,-,1,0221,3,2150000,Terrace,19,Land,99 yrs lease commencing from 2001,OCR
-114,01-05,1,0822,3,1550000,Apartment,19,Strata,Freehold,OCR
+area,floorRange,typeOfSale,price,propertyType,typeOfArea,mktSegment,Year,region
+111.0,01-05,Resale,1525000,Apartment,Strata,OCR,2023,East
+904.9,Ground,Resale,24000000,Detached,Land,CCR,2020,Central
+241.0,Ground,Resale,2300000,Strata Terrace,Strata,OCR,2020,East
+99.0,16-20,Resale,1780000,Apartment,Strata,RCR,2020,East
+115.0,01-05,Resale,1500000,Apartment,Strata,OCR,2021,North-East
+317.0,Ground,Resale,5380000,Semi-detached,Land,OCR,2024,East
+158.0,01-05,Resale,1980000,Apartment,Strata,OCR,2021,East
+105.0,01-05,Resale,1850000,Apartment,Strata,CCR,2020,Central
+55.0,01-05,Resale,890000,Apartment,Strata,CCR,2019,Central
+105.0,01-05,Resale,1960000,Apartment,Strata,CCR,2019,Central
+39.0,01-05,Resale,750000,Condominium,Strata,OCR,2024,East
+138.0,01-05,Resale,1700000,Apartment,Strata,OCR,2021,East
+317.1,Ground,Resale,5100000,Semi-detached,Land,OCR,2021,East
+403.5,Ground,Resale,5240000,Detached,Land,OCR,2021,North-East
+134.0,01-05,Resale,2720000,Condominium,Strata,RCR,2023,North-East
+54.0,06-10,Resale,923000,Apartment,Strata,OCR,2024,North-East
+267.1,Ground,Resale,3399999,Terrace,Land,OCR,2019,East
+167.2,Ground,Resale,2250000,Terrace,Land,OCR,2019,East
+172.3,Ground,Resale,2800000,Terrace,Land,OCR,2020,North-East
+519.4,Ground,Resale,8480000,Detached,Land,RCR,2019,Central
+440.5,Ground,Resale,6800000,Detached,Land,OCR,2021,Central
+317.5,Ground,Resale,5880000,Semi-detached,Land,CCR,2020,Central
+170.9,Ground,Resale,3880000,Terrace,Land,CCR,2020,Central
+368.0,Ground,Resale,3600000,Semi-detached,Land,OCR,2020,North-East
+300.1,Ground,Resale,6800000,Semi-detached,Land,RCR,2024,East
+106.0,01-05,Resale,1500000,Apartment,Strata,RCR,2023,East
+109.0,01-05,Resale,1310000,Apartment,Strata,RCR,2023,East
+221.6,Ground,Sub Sale,4200000,Terrace,Land,OCR,2020,East
+401.6,Ground,Resale,10330000,Detached,Land,RCR,2022,East
+221.0,Ground,Resale,4850000,Terrace,Land,OCR,2024,East
+64.0,01-05,Resale,1388000,Apartment,Strata,CCR,2024,Central
+572.3,Ground,Resale,7800000,Detached,Land,OCR,2020,North-East
+109.0,06-10,New Sale,3218000,Apartment,Strata,CCR,2021,Central
+106.0,01-05,New Sale,2386850,Apartment,Strata,OCR,2024,North-East
+164.4,Ground,Resale,4800000,Terrace,Land,OCR,2024,North-East
+90.0,01-05,Resale,1225000,Apartment,Strata,CCR,2021,Central
+606.6,Ground,Resale,9700000,Detached,Land,CCR,2020,Central
+86.0,01-05,Resale,1555000,Apartment,Strata,OCR,2023,North-East
+128.0,01-05,Resale,2688000,Apartment,Strata,CCR,2023,Central
+223.0,Ground,Resale,2115000,Condominium,Strata,OCR,2019,East
+245.0,Ground,Resale,3770657,Terrace,Land,OCR,2024,North-East
+184.0,01-05,Resale,2130000,Apartment,Strata,OCR,2024,East
+157.0,06-10,Resale,2600388,Apartment,Strata,RCR,2023,East
+97.0,16-20,Resale,2270000,Condominium,Strata,CCR,2024,Central
+108.0,01-05,Resale,850000,Condominium,Strata,OCR,2020,East
+53.0,16-20,Resale,1270000,Apartment,Strata,RCR,2023,Central
+408.0,Ground,Resale,3500000,Strata Detached,Strata,OCR,2021,East
+315.7,Ground,Resale,5000000,Terrace,Land,OCR,2023,East
+99.0,01-05,Resale,1490000,Apartment,Strata,RCR,2021,East
+84.0,06-10,Resale,1123000,Condominium,Strata,OCR,2023,West
+108.0,01-05,Resale,1300000,Apartment,Strata,RCR,2019,East
+43.0,01-05,Resale,568000,Apartment,Strata,RCR,2019,East
+94.0,21-25,Resale,2750000,Condominium,Strata,CCR,2019,Central
+371.0,Ground,Resale,4680000,Semi-detached,Land,OCR,2020,West
+653.4,Ground,Resale,12000000,Detached,Land,CCR,2024,Central
+253.0,01-05,Resale,8010000,Condominium,Strata,CCR,2024,Central
+139.0,01-05,Resale,2188888,Apartment,Strata,CCR,2021,Central
+197.0,16-20,Resale,1980000,Apartment,Strata,OCR,2024,North-East
+120.0,01-05,Resale,1550000,Apartment,Strata,RCR,2024,West
+108.0,01-05,New Sale,2560000,Apartment,Strata,RCR,2023,East
+149.0,01-05,Resale,2608000,Condominium,Strata,CCR,2020,Central
+150.0,Ground,Resale,2388000,Terrace,Land,OCR,2020,North-East
+63.0,01-05,New Sale,1698000,Apartment,Strata,CCR,2020,Central
+103.0,01-05,Resale,1188000,Condominium,Strata,OCR,2023,East
+443.8,Ground,Resale,13136750,Detached,Land,RCR,2023,Central
+222.4,Ground,Resale,3770000,Terrace,Land,OCR,2021,North-East
+108.0,06-10,Resale,1650000,Condominium,Strata,RCR,2023,Central
+62.0,11-15,Resale,1060000,Condominium,Strata,OCR,2024,East
+782.0,06-10,Resale,23000000,Apartment,Strata,CCR,2021,Central
+424.0,Ground,Resale,5200000,Semi-detached,Land,OCR,2023,North-East
+65.0,11-15,Resale,1380000,Condominium,Strata,RCR,2023,Central
+245.0,06-10,Resale,4500000,Apartment,Strata,CCR,2019,Central
+127.0,01-05,Resale,1000000,Apartment,Strata,OCR,2020,East
+57.0,31-35,Resale,1460000,Apartment,Strata,CCR,2024,Central
+113.0,01-05,Resale,1200000,Apartment,Strata,OCR,2021,North-East
+95.0,01-05,Resale,1130000,Apartment,Strata,RCR,2021,East
+341.0,Ground,Resale,4200000,Semi-detached,Land,OCR,2021,East
+351.7,Ground,Resale,5950000,Detached,Land,OCR,2023,East
+364.4,Ground,Resale,4960000,Semi-detached,Land,RCR,2020,Central
+56.0,11-15,Sub Sale,1333888,Apartment,Strata,RCR,2023,East
+831.5,Ground,Resale,10125000,Detached,Land,CCR,2024,Central
+189.0,01-05,Resale,4900000,Condominium,Strata,CCR,2023,Central
+184.8,Ground,Resale,4200000,Terrace,Land,RCR,2024,North-East
+643.3,Ground,Resale,17420000,Detached,Land,CCR,2024,Central
+311.4,Ground,Resale,5000000,Semi-detached,Land,OCR,2024,East
+161.0,01-05,Resale,3880000,Condominium,Strata,CCR,2023,Central
+822.7,Ground,Resale,2575000,Detached,Land,RCR,2021,East
+951.0,Ground,Resale,13380000,Detached,Land,CCR,2020,Central
+476.4,Ground,Resale,9550008,Semi-detached,Land,CCR,2021,Central
+114.0,01-05,Resale,1520000,Condominium,Strata,RCR,2019,West
+84.0,01-05,Resale,1530000,Apartment,Strata,OCR,2024,East
+60.0,01-05,Resale,1150000,Apartment,Strata,RCR,2023,East
+203.1,Ground,Resale,2350000,Terrace,Land,OCR,2019,North-East
+154.0,01-05,Resale,3870000,Apartment,Strata,CCR,2021,Central
+111.0,11-15,Resale,2130000,Apartment,Strata,RCR,2024,East
+165.4,Ground,Resale,3400000,Terrace,Land,RCR,2020,Central
+410.0,Ground,Resale,3088888,Strata Detached,Strata,RCR,2021,East
+164.9,Ground,Resale,2338000,Terrace,Land,OCR,2020,East
+138.0,01-05,Resale,1300000,Apartment,Strata,OCR,2019,North-East
+237.7,Ground,Resale,2068000,Semi-detached,Land,OCR,2019,North-East
+558.9,Ground,Resale,11500000,Semi-detached,Land,CCR,2024,Central
+89.0,01-05,Sub Sale,1600000,Apartment,Strata,OCR,2024,East
+53.0,01-05,Resale,672000,Apartment,Strata,OCR,2019,East
+478.0,Ground,Resale,3228000,Strata Detached,Strata,OCR,2021,East
+85.0,06-10,New Sale,2413000,Apartment,Strata,CCR,2019,Central
+94.0,21-25,Resale,2470000,Condominium,Strata,RCR,2023,East
+96.0,01-05,Resale,1300000,Condominium,Strata,OCR,2024,East
+508.5,Ground,Resale,8000000,Detached,Land,CCR,2020,Central
+287.4,Ground,Resale,4880000,Semi-detached,Land,RCR,2021,Central
+162.0,06-10,Resale,2800000,Condominium,Strata,CCR,2019,Central
+45.0,01-05,Resale,900000,Condominium,Strata,RCR,2024,Central
+458.3,Ground,Resale,9400000,Semi-detached,Land,RCR,2023,Central
+344.6,Ground,Resale,6000000,Semi-detached,Land,CCR,2020,Central
+136.0,06-10,Resale,1528000,Apartment,Strata,RCR,2023,East
+119.0,06-10,Resale,1540000,Executive Condominium,Strata,OCR,2024,North-East
+85.0,01-05,Resale,1620000,Apartment,Strata,RCR,2023,East
+94.0,01-05,Resale,1300000,Apartment,Strata,CCR,2021,Central
+231.0,Ground,Resale,1900000,Strata Terrace,Strata,OCR,2019,East
+416.0,01-05,Resale,10000000,Apartment,Strata,CCR,2022,Central
+245.1,Ground,Resale,3800000,Terrace,Land,OCR,2023,North-East
+150.0,Ground,Resale,2680000,Terrace,Land,OCR,2023,North-East
+92.0,01-05,Resale,910000,Apartment,Strata,RCR,2020,East
+73.0,01-05,New Sale,1894000,Apartment,Strata,RCR,2024,East
+52.0,06-10,Resale,860000,Apartment,Strata,RCR,2024,East
+38.0,01-05,Resale,685000,Apartment,Strata,RCR,2023,East
+415.7,Ground,Resale,4850000,Semi-detached,Land,RCR,2021,East
+1616.9,Ground,Resale,21000000,Detached,Land,CCR,2020,Central
+129.0,Ground,Resale,2650000,Condominium,Strata,CCR,2024,Central
+102.0,01-05,Resale,1330000,Apartment,Strata,OCR,2019,East
+471.0,01-05,Resale,8400000,Apartment,Strata,CCR,2021,Central
+162.0,01-05,Resale,3850000,Condominium,Strata,CCR,2023,Central
+137.0,36-40,Resale,2710000,Condominium,Strata,RCR,2023,Central
+534.0,Ground,Resale,3618000,Strata Detached,Strata,OCR,2024,East
+114.0,01-05,Resale,995000,Apartment,Strata,RCR,2021,East
+189.0,Ground,Resale,2500000,Condominium,Strata,RCR,2024,Central
+168.9,Ground,Resale,2750000,Terrace,Land,OCR,2021,North-East
+552.0,Ground,Resale,4250000,Strata Detached,Strata,RCR,2020,East
+310.0,Ground,Resale,2418800,Strata Semi-detached,Strata,RCR,2021,West
+127.0,01-05,Resale,1850000,Condominium,Strata,OCR,2024,East
+405.2,Ground,Resale,5415000,Detached,Land,OCR,2021,East
+113.0,01-05,Resale,1350000,Apartment,Strata,RCR,2024,East
+171.0,01-05,Resale,2110000,Apartment,Strata,RCR,2022,Central
+200.3,Ground,Resale,4600000,Terrace,Land,OCR,2024,North-East
+135.0,01-05,Resale,1718888,Apartment,Strata,OCR,2020,North-East
+309.0,01-05,Resale,2828000,Condominium,Strata,RCR,2020,West
+192.0,01-05,Resale,3717000,Condominium,Strata,CCR,2024,Central
+98.0,16-20,Resale,2260000,Apartment,Strata,CCR,2024,Central
+266.0,01-05,Resale,4000000,Apartment,Strata,CCR,2023,Central
+124.0,01-05,Resale,1610000,Apartment,Strata,RCR,2023,West
+36.0,06-10,Resale,618000,Apartment,Strata,RCR,2023,East
+559.7,Ground,Resale,8100000,Detached,Land,OCR,2023,North-East
+344.0,06-10,Resale,4800000,Condominium,Strata,RCR,2024,Central
+39.0,01-05,Resale,720000,Apartment,Strata,RCR,2024,East
+42.0,01-05,Resale,700000,Apartment,Strata,RCR,2024,Central
+51.0,01-05,Sub Sale,930000,Apartment,Strata,RCR,2024,East
+183.4,Ground,Resale,3780000,Terrace,Land,OCR,2024,East
+123.0,11-15,Resale,2400000,Apartment,Strata,RCR,2024,East
+112.0,06-10,Resale,2450000,Condominium,Strata,RCR,2024,East
+127.0,11-15,Resale,2060000,Condominium,Strata,OCR,2023,East
+170.0,06-10,Resale,2535000,Apartment,Strata,CCR,2024,Central
+159.4,Ground,Resale,1880000,Terrace,Land,OCR,2020,East
+90.0,06-10,Resale,1573000,Apartment,Strata,CCR,2020,Central
+103.0,01-05,Resale,1858000,Apartment,Strata,OCR,2024,East
+102.0,01-05,Resale,1500000,Apartment,Strata,OCR,2022,East
+156.4,Ground,Resale,3250000,Terrace,Land,OCR,2021,East
+44.0,11-15,Resale,870000,Apartment,Strata,RCR,2024,East
+102.0,16-20,Resale,2020000,Apartment,Strata,RCR,2024,East
+128.4,Ground,Resale,6000000,Terrace,Land,CCR,2021,Central
+99.0,01-05,Resale,1570000,Apartment,Strata,CCR,2019,Central
+895.3,Ground,Resale,21600000,Detached,Land,CCR,2024,Central
+142.0,01-05,Resale,1950000,Apartment,Strata,RCR,2023,East
+160.0,01-05,Resale,2720000,Condominium,Strata,OCR,2024,Central
+402.5,Ground,Resale,3850000,Semi-detached,Land,OCR,2020,North-East
+169.1,Ground,Resale,4050000,Terrace,Land,RCR,2023,North-East
+57.0,01-05,Resale,1150000,Apartment,Strata,CCR,2023,Central
+67.0,01-05,Resale,1200000,Apartment,Strata,RCR,2024,East
+92.0,01-05,Resale,1230000,Apartment,Strata,RCR,2022,East
+936.9,Ground,Resale,20500000,Detached,Land,CCR,2021,Central
+135.0,01-05,Resale,1800000,Apartment,Strata,RCR,2022,Central
+46.0,06-10,Resale,888888,Apartment,Strata,CCR,2021,Central
+111.0,01-05,Resale,1700000,Apartment,Strata,OCR,2023,East
+306.4,Ground,Resale,4180000,Semi-detached,Land,OCR,2020,East
+129.0,01-05,Resale,1530000,Apartment,Strata,RCR,2020,West
+42.0,01-05,Resale,838000,Apartment,Strata,CCR,2023,Central
+400.0,01-05,Resale,4368000,Strata Semi-detached,Strata,CCR,2024,Central
+118.6,Ground,Resale,1680000,Terrace,Land,OCR,2020,North-East
+1216.3,Ground,Resale,23800000,Detached,Land,CCR,2022,Central
+40.0,01-05,Resale,658000,Apartment,Strata,RCR,2023,East
+87.0,16-20,Resale,1370000,Condominium,Strata,OCR,2023,East
+108.0,01-05,Resale,1355000,Condominium,Strata,OCR,2020,East
+518.7,Ground,Resale,11000000,Detached,Land,CCR,2024,Central
+48.0,01-05,Resale,1200000,Apartment,Strata,CCR,2023,Central
+152.5,Ground,Resale,2900000,Terrace,Land,OCR,2019,East
+160.0,41-45,Resale,5163000,Apartment,Strata,CCR,2023,Central
+201.2,Ground,Resale,3880000,Semi-detached,Land,OCR,2021,North-East
+99.0,01-05,Resale,1650000,Apartment,Strata,RCR,2024,Central
+126.0,16-20,Resale,2850000,Apartment,Strata,CCR,2024,Central
+182.0,16-20,Resale,4900000,Condominium,Strata,RCR,2024,East
+116.0,06-10,Resale,1795000,Apartment,Strata,OCR,2023,North-East
+442.3,Ground,Resale,7350000,Detached,Land,CCR,2021,Central
+160.7,Ground,Resale,3860000,Terrace,Land,RCR,2023,East
+69.0,01-05,Resale,1300000,Apartment,Strata,RCR,2024,North-East
+191.0,01-05,Resale,3500000,Condominium,Strata,CCR,2020,Central
+189.0,Ground,Resale,2688888,Strata Terrace,Strata,OCR,2024,East
+71.0,01-05,Resale,1180888,Apartment,Strata,OCR,2024,West
+95.0,01-05,Resale,1005000,Condominium,Strata,OCR,2024,East
+178.9,Ground,Resale,3150000,Terrace,Land,OCR,2021,North-East
+47.0,01-05,Resale,973800,Apartment,Strata,CCR,2023,Central
+43.0,06-10,Resale,730000,Apartment,Strata,RCR,2023,East
+41.0,01-05,Resale,725000,Apartment,Strata,RCR,2023,Central
+212.3,Ground,Resale,3680000,Terrace,Land,OCR,2021,North-East
+194.0,11-15,Resale,2180000,Apartment,Strata,CCR,2019,Central
+91.0,11-15,Resale,2120000,Condominium,Strata,RCR,2024,Central
+122.0,06-10,Resale,1750000,Apartment,Strata,RCR,2023,Central
+177.0,01-05,Resale,2000000,Condominium,Strata,RCR,2020,West
+456.0,Ground,Resale,2600000,Strata Semi-detached,Strata,OCR,2021,East
+380.2,Ground,Resale,6650000,Semi-detached,Land,CCR,2020,Central
+167.0,01-05,Resale,1950000,Apartment,Strata,OCR,2023,North-East
+58.0,36-40,New Sale,1647000,Apartment,Strata,CCR,2024,Central
+149.0,01-05,New Sale,3635800,Apartment,Strata,CCR,2024,Central
+39.0,01-05,Resale,650000,Apartment,Strata,RCR,2024,East
+90.0,01-05,Resale,1230000,Apartment,Strata,RCR,2023,East
+123.4,Ground,Resale,2800000,Terrace,Land,RCR,2019,East
+113.0,01-05,Resale,340000,Apartment,Strata,OCR,2021,East
+38.0,01-05,Resale,725000,Apartment,Strata,OCR,2024,East
+79.0,06-10,Resale,1450000,Condominium,Strata,CCR,2024,Central
+192.0,01-05,Resale,4280000,Condominium,Strata,CCR,2023,Central
+120.0,06-10,Resale,1525000,Apartment,Strata,RCR,2024,East
+358.7,Ground,Resale,3800000,Semi-detached,Land,RCR,2020,East
+111.0,01-05,Resale,1500000,Apartment,Strata,RCR,2023,East
+63.0,06-10,New Sale,2035000,Apartment,Strata,CCR,2024,Central
+70.0,01-05,Resale,1190000,Apartment,Strata,RCR,2023,East
+147.0,01-05,Resale,3230000,Condominium,Strata,RCR,2024,Central
+90.0,01-05,Resale,1270000,Apartment,Strata,OCR,2021,North-East
+106.0,01-05,Resale,2000000,Apartment,Strata,CCR,2023,Central
+156.0,Ground,Resale,3130000,Terrace,Land,OCR,2022,North-East
+66.0,06-10,Resale,1408800,Apartment,Strata,CCR,2021,Central
+144.0,11-15,Resale,2800000,Apartment,Strata,CCR,2021,Central
+137.0,01-05,Resale,3600000,Condominium,Strata,CCR,2023,Central
+199.2,Ground,Resale,3779000,Terrace,Land,RCR,2022,West
+181.0,01-05,Resale,2430000,Apartment,Strata,RCR,2024,East
+55.0,01-05,Resale,845000,Apartment,Strata,RCR,2024,Central
+113.0,26-30,New Sale,3241238,Apartment,Strata,RCR,2023,Central
+92.0,01-05,Resale,1200000,Apartment,Strata,OCR,2019,East
+325.0,Ground,Resale,3600000,Semi-detached,Land,OCR,2019,North-East
+103.0,01-05,Resale,1738000,Condominium,Strata,RCR,2023,East
+132.0,01-05,Resale,1838000,Apartment,Strata,RCR,2019,East
+1413.2,Ground,Resale,13300000,Semi-detached,Land,OCR,2019,East
+96.0,01-05,Resale,2158000,Apartment,Strata,RCR,2024,East
+295.0,Ground,Resale,10070000,Semi-detached,Land,CCR,2024,Central
+173.5,Ground,Resale,3200000,Terrace,Land,OCR,2023,East
+374.7,Ground,Resale,9900000,Semi-detached,Land,CCR,2024,Central
+86.0,01-05,Resale,1110000,Condominium,Strata,OCR,2024,East
+125.0,01-05,Resale,1510000,Apartment,Strata,OCR,2021,East
+185.0,Ground,Resale,1800000,Strata Terrace,Strata,OCR,2021,East
+89.0,01-05,Resale,1780000,Apartment,Strata,CCR,2023,Central
+86.0,01-05,Resale,1050000,Apartment,Strata,OCR,2021,East
+200.3,Ground,Resale,6000000,Terrace,Land,RCR,2024,Central
+318.0,Ground,Resale,6000000,Semi-detached,Land,CCR,2020,Central
+409.0,Ground,Resale,3460000,Strata Semi-detached,Strata,OCR,2023,East
+345.1,Ground,Resale,5820000,Semi-detached,Land,CCR,2020,Central
+447.4,Ground,Resale,7900000,Semi-detached,Land,OCR,2021,East
+374.9,Ground,Resale,3800000,Terrace,Land,OCR,2020,West
+212.3,Ground,Resale,2750000,Terrace,Land,RCR,2021,East
+497.0,Ground,Resale,3058000,Strata Terrace,Strata,OCR,2021,North-East
+247.0,Ground,Resale,2600000,Strata Terrace,Strata,OCR,2021,East
+409.2,Ground,Resale,4888000,Semi-detached,Land,OCR,2021,East
+108.0,01-05,Resale,3980000,Condominium,Strata,CCR,2019,Central
+123.0,01-05,Resale,1538000,Apartment,Strata,OCR,2019,East
+158.7,Ground,Resale,4250000,Terrace,Land,RCR,2023,North-East
+389.7,Ground,Resale,6900000,Semi-detached,Land,OCR,2024,East
+171.4,Ground,Resale,3730000,Terrace,Land,CCR,2021,Central
+233.3,Ground,Resale,4520000,Terrace,Land,OCR,2023,North-East
+80.0,01-05,Resale,1350000,Apartment,Strata,CCR,2024,Central
+93.0,11-15,Resale,2250000,Apartment,Strata,CCR,2023,Central
+236.7,Ground,Resale,4250000,Terrace,Land,RCR,2021,East
+279.8,Ground,Resale,3388000,Semi-detached,Land,RCR,2020,East
+80.0,01-05,Resale,1720000,Apartment,Strata,CCR,2024,Central
+134.0,01-05,Resale,1380000,Apartment,Strata,RCR,2021,Central
+820.4,Ground,Resale,13000000,Detached,Land,CCR,2020,Central
+193.0,01-05,Resale,2400000,Strata Terrace,Strata,RCR,2021,West
+151.0,11-15,Resale,2000000,Apartment,Strata,RCR,2024,East
+291.6,Ground,Resale,3850000,Semi-detached,Land,RCR,2021,North-East
+401.5,Ground,Resale,5380000,Detached,Land,OCR,2020,East
+70.0,01-05,New Sale,1574000,Apartment,Strata,OCR,2019,East
+56.0,06-10,Resale,995000,Apartment,Strata,RCR,2024,East
+115.0,06-10,Resale,2250000,Condominium,Strata,OCR,2023,East
+123.0,01-05,Resale,1550000,Condominium,Strata,RCR,2020,West
+351.0,11-15,Resale,9200000,Condominium,Strata,CCR,2024,Central
+298.0,Ground,Resale,6136000,Semi-detached,Land,RCR,2024,Central
+106.0,01-05,Resale,1680000,Condominium,Strata,CCR,2023,Central
+302.0,01-05,Resale,10300000,Apartment,Strata,CCR,2023,Central
+288.0,01-05,Resale,4200000,Strata Terrace,Strata,CCR,2020,Central
+468.0,Ground,Resale,8480000,Detached,Land,RCR,2023,Central
+203.7,Ground,Resale,4240000,Terrace,Land,RCR,2024,East
+132.0,11-15,Resale,2920000,Apartment,Strata,CCR,2024,Central
+122.0,11-15,Resale,2230000,Condominium,Strata,OCR,2023,East
+157.0,06-10,Resale,1838720,Apartment,Strata,RCR,2019,East
+187.0,11-15,Resale,4170000,Apartment,Strata,CCR,2020,Central
+157.0,01-05,Resale,2165000,Apartment,Strata,RCR,2019,East
+67.0,01-05,Resale,1350000,Apartment,Strata,RCR,2024,Central
+41.0,36-40,Resale,995000,Condominium,Strata,RCR,2023,Central
+116.0,01-05,Resale,2000000,Apartment,Strata,RCR,2024,East
+142.1,Ground,Resale,1970000,Terrace,Land,OCR,2019,North-East
+70.0,21-25,Resale,1838000,Apartment,Strata,CCR,2024,Central
+86.0,01-05,Resale,1518000,Condominium,Strata,OCR,2023,Central
+589.0,Ground,Resale,4400000,Strata Detached,Strata,CCR,2021,Central
+315.9,Ground,Resale,9168000,Semi-detached,Land,RCR,2024,East
+92.0,01-05,Resale,1070000,Apartment,Strata,RCR,2020,East
+116.0,01-05,Resale,1550000,Apartment,Strata,RCR,2021,East
+279.0,Ground,New Sale,9300000,Semi-detached,Land,RCR,2024,East
+144.0,06-10,Resale,2350000,Apartment,Strata,CCR,2024,Central
+54.0,16-20,Resale,1120000,Apartment,Strata,CCR,2024,Central
+161.0,06-10,Resale,3930000,Condominium,Strata,CCR,2023,Central
+112.0,01-05,Resale,1850000,Condominium,Strata,RCR,2024,East
+393.4,Ground,Resale,4530000,Detached,Land,OCR,2021,North-East
+343.1,Ground,Resale,4500000,Semi-detached,Land,RCR,2019,North-East
+42.0,01-05,Sub Sale,1200000,Apartment,Strata,RCR,2024,East
+111.0,01-05,New Sale,1875000,Apartment,Strata,OCR,2019,East
+111.0,06-10,Resale,1900000,Apartment,Strata,RCR,2024,East
+251.1,Ground,Resale,4780000,Semi-detached,Land,OCR,2023,East
+265.0,Ground,New Sale,6980000,Semi-detached,Land,OCR,2021,West
+130.0,11-15,Resale,2480000,Condominium,Strata,RCR,2024,East
+77.0,01-05,Resale,1880000,Apartment,Strata,CCR,2024,Central
+559.1,Ground,Resale,11388000,Detached,Land,CCR,2021,Central
+299.0,16-20,Resale,9000000,Condominium,Strata,CCR,2024,Central
+79.0,01-05,Resale,1350000,Condominium,Strata,RCR,2024,East
+65.0,01-05,Resale,861000,Apartment,Strata,OCR,2021,North-East
+161.6,Ground,Resale,2650000,Terrace,Land,OCR,2024,East
+105.0,01-05,Resale,1300000,Apartment,Strata,OCR,2023,East
+304.0,Ground,Resale,3750000,Strata Terrace,Strata,CCR,2023,Central
+262.5,Ground,Resale,4100000,Semi-detached,Land,OCR,2021,North-East
+103.0,01-05,Resale,2328000,Apartment,Strata,CCR,2024,Central
+91.0,01-05,Resale,1430000,Apartment,Strata,RCR,2024,East
+221.5,Ground,Resale,3100000,Terrace,Land,OCR,2019,North-East
+58.0,06-10,Resale,972000,Apartment,Strata,CCR,2020,Central
+199.5,Ground,Resale,3670000,Terrace,Land,RCR,2020,East
+45.0,01-05,Resale,945000,Apartment,Strata,CCR,2024,Central
+117.0,01-05,Resale,1680000,Apartment,Strata,RCR,2024,Central
+111.0,01-05,Resale,1420000,Apartment,Strata,RCR,2019,East
+81.0,01-05,Resale,1440000,Apartment,Strata,RCR,2024,East
+208.1,Ground,Resale,3200000,Terrace,Land,RCR,2021,North-East
+200.0,01-05,Resale,2730000,Condominium,Strata,OCR,2024,West
+111.0,01-05,Resale,2180000,Apartment,Strata,RCR,2024,East
+127.0,01-05,Resale,1530000,Apartment,Strata,RCR,2023,East
+148.0,01-05,Resale,1650000,Apartment,Strata,RCR,2021,East
+204.0,01-05,Resale,3665000,Condominium,Strata,OCR,2024,East
+115.0,01-05,Resale,2150000,Condominium,Strata,OCR,2024,East
+678.7,Ground,Resale,9666666,Detached,Land,OCR,2024,East
+302.0,06-10,Resale,9620000,Condominium,Strata,CCR,2019,Central
+37.0,01-05,Resale,773000,Condominium,Strata,RCR,2023,West
+87.0,06-10,Resale,1445000,Condominium,Strata,RCR,2024,East
+107.0,06-10,Resale,2982200,Apartment,Strata,CCR,2023,Central
+90.0,06-10,Resale,1650000,Apartment,Strata,CCR,2020,Central
+87.0,01-05,Resale,2155000,Apartment,Strata,CCR,2019,Central
+293.1,Ground,Resale,4588888,Semi-detached,Land,RCR,2020,Central
+162.3,Ground,Resale,3020000,Terrace,Land,RCR,2020,North-East
+330.3,Ground,Resale,6000000,Semi-detached,Land,CCR,2020,Central
+395.8,Ground,Resale,5247000,Semi-detached,Land,OCR,2024,North-East
+108.0,06-10,Resale,1030000,Condominium,Strata,OCR,2024,East
+92.0,01-05,Resale,1452000,Apartment,Strata,RCR,2020,Central
+191.0,16-20,Resale,2130000,Apartment,Strata,CCR,2020,Central
+153.3,Ground,Resale,5000000,Terrace,Land,CCR,2021,Central
+117.4,Ground,Resale,3880000,Terrace,Land,RCR,2023,East
+83.0,01-05,Resale,1100000,Apartment,Strata,OCR,2023,East
+83.0,01-05,Resale,880000,Apartment,Strata,RCR,2020,West
+105.0,06-10,Resale,1441000,Condominium,Strata,OCR,2024,East
+224.0,01-05,Resale,5100000,Condominium,Strata,CCR,2023,Central
+200.8,Ground,Resale,5400000,Terrace,Land,OCR,2024,East
+98.0,01-05,Resale,1068000,Apartment,Strata,RCR,2021,East
+322.0,11-15,Resale,5900000,Condominium,Strata,CCR,2019,Central
+131.0,01-05,Resale,2380000,Condominium,Strata,CCR,2024,Central
+80.0,01-05,Resale,1049200,Apartment,Strata,RCR,2019,Central
+168.2,Ground,Resale,2550000,Terrace,Land,OCR,2024,East
+108.0,01-05,Resale,2020000,Condominium,Strata,RCR,2024,North-East
+104.0,06-10,Resale,2450000,Apartment,Strata,CCR,2024,Central
+410.3,Ground,Resale,10500000,Detached,Land,RCR,2023,East
+78.0,06-10,Resale,1510000,Condominium,Strata,RCR,2024,East
+88.0,06-10,Resale,1500000,Condominium,Strata,RCR,2023,Central
+86.0,11-15,Resale,1400000,Apartment,Strata,RCR,2019,East
+90.0,01-05,Resale,1220000,Apartment,Strata,OCR,2021,East
+168.0,01-05,Resale,2720000,Condominium,Strata,CCR,2019,Central
+883.0,Ground,Resale,11800000,Detached,Land,CCR,2020,Central
+94.0,01-05,Resale,1300000,Apartment,Strata,RCR,2019,East
+116.0,01-05,Resale,1300000,Condominium,Strata,OCR,2020,East
+170.7,01-05,Resale,1650000,Apartment,Land,RCR,2024,East
+87.0,01-05,Resale,1442000,Apartment,Strata,OCR,2024,East
+459.2,Ground,Resale,11880000,Detached,Land,CCR,2024,Central
+424.0,Ground,Resale,3300000,Strata Detached,Strata,OCR,2020,East
+103.0,06-10,New Sale,1681000,Executive Condominium,Strata,OCR,2024,East
+179.4,Ground,Resale,4094000,Terrace,Land,RCR,2024,West
+96.0,06-10,Resale,880000,Apartment,Strata,RCR,2023,East
+113.0,01-05,Resale,2088888,Apartment,Strata,CCR,2020,Central
+291.6,Ground,Resale,3500000,Semi-detached,Land,RCR,2019,North-East
+455.7,Ground,Resale,12280000,Semi-detached,Land,CCR,2023,Central
+82.0,01-05,Resale,800000,Apartment,Strata,RCR,2020,East
+125.0,01-05,Resale,2000000,Apartment,Strata,RCR,2024,East
+148.3,Ground,Resale,5400000,Terrace,Land,OCR,2023,North-East
+85.0,16-20,Resale,2300000,Apartment,Strata,CCR,2023,Central
+92.0,01-05,Resale,1980000,Condominium,Strata,RCR,2024,Central
+119.0,01-05,Resale,2620000,Apartment,Strata,CCR,2023,Central
+381.6,Ground,Resale,7500000,Terrace,Land,CCR,2021,Central
+154.3,Ground,Resale,2600000,Terrace,Land,OCR,2021,North-East
+217.6,Ground,Resale,2580000,Semi-detached,Land,OCR,2021,East
+141.0,01-05,Resale,1470000,Condominium,Strata,OCR,2024,East
+115.0,01-05,Resale,1800000,Condominium,Strata,OCR,2024,North-East
+267.0,11-15,Resale,13049000,Condominium,Strata,CCR,2024,Central
+33.0,01-05,Resale,775000,Apartment,Strata,CCR,2024,Central
+53.0,01-05,Resale,1675000,Apartment,Strata,CCR,2023,Central
+102.0,06-10,Resale,1505000,Condominium,Strata,OCR,2024,East
+301.3,Ground,Resale,4000000,Semi-detached,Land,OCR,2020,East
+315.0,Ground,Resale,8000000,Terrace,Land,CCR,2022,Central
+63.0,56-60,Resale,1250000,Apartment,Strata,CCR,2024,Central
+89.0,11-15,Resale,1730000,Apartment,Strata,RCR,2023,Central
+150.0,01-05,Resale,2125000,Apartment,Strata,CCR,2019,Central
+48.0,01-05,Resale,925000,Apartment,Strata,CCR,2024,Central
+66.0,11-15,Resale,1380000,Apartment,Strata,OCR,2024,West
+200.5,Ground,Resale,5055000,Terrace,Land,RCR,2024,East
+80.0,36-40,Resale,1900000,Condominium,Strata,RCR,2024,Central
+597.0,Ground,Resale,3600000,Strata Terrace,Strata,OCR,2023,North-East
+123.0,01-05,Resale,1400000,Executive Condominium,Strata,OCR,2024,East
+194.0,Ground,Resale,3280000,Terrace,Land,OCR,2020,West
+180.0,Ground,Resale,2000000,Condominium,Strata,OCR,2022,East
+440.7,Ground,Resale,6000000,Terrace,Land,OCR,2021,North-East
+191.0,01-05,Resale,3500000,Apartment,Land,RCR,2021,East
+170.0,01-05,Resale,1670000,Apartment,Strata,OCR,2020,North-East
+150.0,Ground,Resale,3500000,Terrace,Land,OCR,2024,East
+94.0,01-05,Resale,1600000,Apartment,Strata,RCR,2022,Central
+115.8,Ground,Resale,4500000,Terrace,Land,RCR,2022,Central
+167.0,21-25,Resale,4800000,Condominium,Strata,CCR,2023,Central
+96.0,06-10,Resale,1650000,Apartment,Strata,CCR,2020,Central
+216.5,Ground,Resale,9200888,Semi-detached,Land,CCR,2024,Central
+409.5,Ground,Resale,7000000,Detached,Land,OCR,2022,East
+201.1,Ground,Resale,3100000,Semi-detached,Land,OCR,2020,North-East
+204.7,Ground,Resale,4550000,Terrace,Land,OCR,2023,East
+120.0,06-10,Resale,1565000,Apartment,Strata,OCR,2023,North-East
+173.8,Ground,Resale,3450000,Terrace,Land,OCR,2024,North-East
+324.9,Ground,Resale,5800000,Semi-detached,Land,OCR,2021,East
+178.0,01-05,Resale,3450000,Condominium,Strata,OCR,2024,East
+202.0,01-05,Resale,6860000,Condominium,Strata,CCR,2023,Central
+92.0,01-05,Resale,1580000,Condominium,Strata,RCR,2024,West
+121.0,01-05,Resale,1693000,Condominium,Strata,OCR,2024,East
+72.0,01-05,Resale,1050000,Apartment,Strata,RCR,2023,Central
+43.0,01-05,Resale,975000,Condominium,Strata,RCR,2024,East
+187.1,Ground,Resale,4228000,Terrace,Land,OCR,2024,North-East
+181.4,Ground,Resale,2350000,Terrace,Land,RCR,2020,East
+354.2,Ground,Resale,3000000,Semi-detached,Land,OCR,2020,East
+312.6,Ground,Resale,5380000,Terrace,Land,OCR,2021,North-East
+88.0,16-20,Sub Sale,2630000,Apartment,Strata,CCR,2024,Central
+129.0,06-10,Resale,2600000,Apartment,Strata,CCR,2023,Central
+161.8,Ground,Resale,2250000,Terrace,Land,RCR,2019,East
+304.3,Ground,Resale,3380000,Semi-detached,Land,OCR,2020,East
+250.8,Ground,Resale,3260000,Semi-detached,Land,OCR,2020,North-East
+519.2,Ground,Resale,4818000,Terrace,Land,OCR,2022,East
+197.2,Ground,Resale,4020000,Terrace,Land,RCR,2022,East
+572.3,Ground,Resale,6250000,Detached,Land,OCR,2022,North-East
+289.3,Ground,Resale,4350000,Semi-detached,Land,RCR,2021,West
+170.0,06-10,Resale,3250000,Apartment,Strata,CCR,2020,Central
+420.0,Ground,Resale,7900000,Semi-detached,Land,CCR,2019,Central
+99.0,06-10,Resale,1868000,Apartment,Strata,CCR,2019,Central
+546.3,Ground,Resale,13990000,Detached,Land,CCR,2024,Central
+109.0,11-15,Resale,1125000,Condominium,Strata,OCR,2020,North-East
+58.0,21-25,Resale,1880000,Apartment,Strata,CCR,2024,Central
+170.0,Ground,New Sale,5657250,Terrace,Land,OCR,2023,North-East
+394.0,Ground,Resale,3620000,Strata Terrace,Strata,OCR,2024,North-East
+69.0,06-10,Resale,1740000,Condominium,Strata,RCR,2024,Central
+94.0,01-05,Resale,1600000,Apartment,Strata,OCR,2023,East
+133.0,01-05,Resale,2350000,Apartment,Strata,RCR,2019,Central
+156.8,Ground,Resale,1980000,Terrace,Land,OCR,2020,North-East
+110.0,01-05,Resale,1550000,Apartment,Strata,OCR,2024,North-East
+120.0,06-10,Resale,1730000,Apartment,Strata,CCR,2020,Central
+70.0,01-05,Resale,1125000,Apartment,Strata,RCR,2021,Central
+89.0,01-05,Resale,1085000,Condominium,Strata,OCR,2024,East
+135.0,01-05,Resale,1760000,Apartment,Strata,CCR,2019,Central
+118.0,16-20,Resale,3000000,Condominium,Strata,RCR,2023,Central
+91.0,01-05,New Sale,2411112,Condominium,Strata,RCR,2024,Central
+174.7,Ground,Resale,2700000,Terrace,Land,OCR,2019,East
+50.0,01-05,Sub Sale,880000,Apartment,Strata,OCR,2024,North-East
+93.0,01-05,Resale,1400000,Condominium,Strata,OCR,2023,North-East
+452.1,Ground,Resale,6450000,Semi-detached,Land,CCR,2021,Central
+207.5,Ground,Resale,10600000,Terrace,Land,CCR,2021,Central
+179.8,Ground,Resale,2700000,Terrace,Land,OCR,2023,East
+54.0,01-05,Resale,715000,Apartment,Strata,RCR,2020,East
+458.8,Ground,Resale,5280000,Semi-detached,Land,OCR,2024,North-East
+52.0,01-05,New Sale,1289000,Condominium,Strata,RCR,2024,East
+105.0,01-05,Resale,1600000,Apartment,Strata,RCR,2023,East
+205.0,16-20,Resale,2650000,Apartment,Strata,OCR,2023,North-East
+105.0,11-15,Resale,2608888,Condominium,Strata,CCR,2024,Central
+73.0,01-05,New Sale,2070000,Apartment,Strata,CCR,2023,Central
+62.0,11-15,Resale,1435000,Apartment,Strata,RCR,2024,East
+156.0,01-05,Resale,2128000,Apartment,Strata,RCR,2024,East
+372.0,Ground,Resale,5400000,Condominium,Strata,CCR,2021,Central
+116.0,01-05,Resale,850000,Apartment,Strata,RCR,2020,East
+777.0,Ground,Resale,3601000,Strata Semi-detached,Strata,OCR,2023,West
+367.5,Ground,Resale,13054800,Semi-detached,Land,CCR,2023,Central
+676.9,Ground,Resale,8680000,Detached,Land,OCR,2020,East
+55.0,06-10,Resale,680000,Apartment,Strata,RCR,2021,Central
+164.5,Ground,Resale,2720000,Terrace,Land,OCR,2020,East
+104.0,01-05,Resale,860000,Apartment,Strata,RCR,2021,East
+240.0,Ground,Resale,2750000,Strata Terrace,Strata,OCR,2022,West
+300.8,Ground,Resale,4088800,Semi-detached,Land,RCR,2021,Central
+160.0,06-10,Resale,3080000,Condominium,Strata,CCR,2024,Central
+334.5,Ground,Resale,5800000,Semi-detached,Land,OCR,2020,East
+32.0,01-05,Resale,538000,Apartment,Strata,RCR,2020,East
+548.5,Ground,Resale,5676000,Terrace,Land,RCR,2021,East
+97.0,01-05,Resale,1550000,Apartment,Strata,OCR,2023,East
+1631.2,Ground,Resale,24500000,Detached,Land,CCR,2021,Central
+81.0,11-15,New Sale,1996000,Apartment,Strata,CCR,2024,Central
+292.9,Ground,Resale,7000000,Terrace,Land,OCR,2024,East
+95.0,11-15,Resale,1800000,Condominium,Strata,RCR,2023,North-East
+156.2,Ground,Resale,2075000,Terrace,Land,RCR,2019,East
+71.7,Ground,Resale,2350000,Terrace,Land,RCR,2022,East
+220.0,01-05,Resale,2200000,Apartment,Strata,RCR,2021,Central
+102.0,01-05,Resale,1280000,Apartment,Strata,OCR,2021,East
+143.0,01-05,Resale,3150000,Condominium,Strata,CCR,2024,Central
+98.0,01-05,Resale,2080000,Apartment,Strata,CCR,2020,Central
+57.0,01-05,Resale,565000,Apartment,Strata,RCR,2019,East
+433.3,Ground,Resale,3950000,Terrace,Land,OCR,2020,East
+120.0,06-10,Resale,2530000,Apartment,Strata,CCR,2024,Central
+118.0,21-25,Resale,3500000,Apartment,Strata,CCR,2024,Central
+185.8,Ground,Resale,2600000,Terrace,Land,OCR,2020,North-East
+159.3,Ground,Resale,2630000,Terrace,Land,RCR,2020,West
+150.0,11-15,Resale,2100000,Apartment,Strata,OCR,2024,East
+310.8,Ground,Resale,550000,Semi-detached,Land,OCR,2020,East
+1400.1,Ground,Resale,30000000,Detached,Land,CCR,2021,Central
+1029.6,Ground,Resale,22000000,Detached,Land,CCR,2023,Central
+69.0,11-15,Resale,1770000,Apartment,Strata,CCR,2024,Central
+125.0,31-35,Resale,4658600,Apartment,Strata,CCR,2019,Central
+402.8,Ground,Resale,7980000,Detached,Land,RCR,2023,Central
+132.0,06-10,Resale,2210000,Apartment,Strata,RCR,2023,East
+116.0,01-05,Resale,1780000,Condominium,Strata,OCR,2024,East
+76.0,01-05,Resale,1688180,Apartment,Strata,CCR,2020,Central
+269.6,Ground,Resale,4700000,Semi-detached,Land,CCR,2019,Central
+108.0,06-10,Resale,1605000,Condominium,Strata,OCR,2024,West
+43.0,01-05,Resale,852000,Condominium,Strata,OCR,2024,West
+138.0,16-20,Resale,2100000,Condominium,Strata,RCR,2023,North-East
+266.9,Ground,Resale,7375000,Terrace,Land,RCR,2023,East
+331.3,Ground,Resale,4380000,Semi-detached,Land,OCR,2021,East
+650.7,Ground,Resale,7800000,Detached,Land,OCR,2024,East
+483.0,Ground,Resale,5400000,Detached,Land,OCR,2024,North-East
+629.7,Ground,Resale,11000000,Detached,Land,CCR,2021,Central
+76.0,06-10,Resale,1280000,Apartment,Strata,RCR,2024,East
+131.0,06-10,Sub Sale,3280000,Apartment,Strata,RCR,2024,West
+108.0,01-05,Resale,1300000,Apartment,Strata,OCR,2023,East
+388.4,Ground,Resale,6120000,Semi-detached,Land,OCR,2024,North-East
+121.0,16-20,Resale,1723000,Executive Condominium,Strata,OCR,2024,North-East
+46.0,06-10,Resale,648800,Apartment,Strata,OCR,2020,East
+311.9,Ground,Resale,5900000,Terrace,Land,CCR,2019,Central
+679.0,Ground,Resale,5500000,Strata Semi-detached,Strata,CCR,2021,Central
+96.0,01-05,Resale,980000,Apartment,Strata,RCR,2019,East
+84.0,01-05,Resale,1098000,Apartment,Strata,RCR,2023,East
+349.0,Ground,Resale,2699000,Strata Semi-detached,Strata,OCR,2019,East
+198.8,Ground,Resale,1910000,Terrace,Land,OCR,2020,East
+434.2,Ground,Resale,10280000,Semi-detached,Land,CCR,2024,Central
+122.0,01-05,Resale,1128000,Apartment,Strata,RCR,2021,East
+100.0,01-05,Resale,2300000,Apartment,Strata,CCR,2024,Central
+94.0,01-05,Resale,968888,Apartment,Strata,RCR,2020,East
+152.0,01-05,Resale,2500000,Condominium,Strata,OCR,2024,East
+82.0,01-05,Resale,1320000,Condominium,Strata,RCR,2023,Central
+66.0,01-05,Resale,1200000,Apartment,Strata,CCR,2024,Central
+42.0,01-05,Resale,707000,Apartment,Strata,RCR,2023,Central
+154.0,01-05,Resale,1538000,Apartment,Strata,RCR,2019,East
+114.0,06-10,Resale,890000,Apartment,Strata,RCR,2019,East
+134.0,01-05,Resale,2290000,Condominium,Strata,RCR,2023,North-East
+236.2,Ground,Resale,2580000,Terrace,Land,OCR,2020,East
+130.0,11-15,Resale,1950000,Condominium,Strata,RCR,2024,East
+117.0,01-05,Resale,2000000,Condominium,Strata,RCR,2024,West
+217.0,01-05,Resale,5100000,Condominium,Strata,CCR,2023,Central
+136.0,01-05,Resale,2060000,Apartment,Strata,OCR,2023,East
+87.0,01-05,Resale,1265000,Apartment,Strata,CCR,2021,Central
+821.6,Ground,Resale,8200000,Detached,Land,RCR,2020,East
+34.0,01-05,Resale,620000,Apartment,Strata,OCR,2024,North-East
+286.5,Ground,Resale,3200000,Terrace,Land,RCR,2020,Central
+102.0,01-05,Resale,2000000,Apartment,Strata,CCR,2021,Central
+100.0,11-15,Resale,2398000,Condominium,Strata,CCR,2024,Central
+132.0,06-10,Resale,1935000,Apartment,Strata,RCR,2024,East
+156.0,Ground,Resale,2250000,Terrace,Land,RCR,2020,Central
+112.0,01-05,Resale,1050000,Apartment,Strata,OCR,2019,North-East
+309.8,Ground,Resale,5290000,Semi-detached,Land,OCR,2024,East
+56.0,06-10,Resale,670000,Apartment,Strata,RCR,2019,East
+202.0,16-20,Resale,6900000,Apartment,Strata,CCR,2024,Central
+197.3,Ground,Resale,2750000,Terrace,Land,OCR,2021,North-East
+107.0,01-05,Resale,1298888,Apartment,Strata,RCR,2024,East
+384.0,Ground,Resale,2800000,Semi-detached,Land,OCR,2020,North-East
+106.0,01-05,Resale,2200000,Apartment,Strata,CCR,2023,Central
+92.0,01-05,Resale,1308000,Apartment,Strata,OCR,2024,East
+71.0,11-15,Resale,1120000,Condominium,Strata,OCR,2024,North-East
+60.0,06-10,Resale,1080000,Condominium,Strata,OCR,2024,West
+152.6,Ground,Resale,2250000,Terrace,Land,RCR,2019,North-East
+168.0,01-05,Resale,1950000,Apartment,Strata,RCR,2019,East
+262.2,Ground,Resale,3980000,Terrace,Land,OCR,2021,East
+157.0,16-20,Resale,2220000,Apartment,Strata,RCR,2024,East
+92.0,01-05,Resale,1390000,Apartment,Strata,OCR,2022,East
+63.0,01-05,Resale,1000000,Apartment,Strata,RCR,2023,East
+96.0,01-05,Resale,1260000,Apartment,Strata,OCR,2024,North-East
+186.0,Ground,Resale,2250000,Terrace,Land,RCR,2019,East
+40.0,11-15,Resale,785000,Apartment,Strata,RCR,2024,East
+317.4,Ground,Resale,5200000,Semi-detached,Land,OCR,2020,East
+199.0,Ground,Resale,4450000,Terrace,Land,RCR,2024,East
+232.8,Ground,Resale,3600000,Semi-detached,Land,OCR,2024,North-East
+46.0,01-05,Resale,1000000,Apartment,Strata,CCR,2023,Central
+249.5,Ground,Resale,4000000,Terrace,Land,RCR,2020,East
+98.0,01-05,Resale,930000,Apartment,Strata,OCR,2020,North-East
+106.0,01-05,Resale,2000000,Apartment,Strata,CCR,2023,Central
+191.0,11-15,New Sale,7400000,Apartment,Strata,CCR,2024,Central
+89.0,06-10,Resale,1450000,Apartment,Strata,RCR,2023,East
+188.0,01-05,Resale,3250000,Condominium,Strata,CCR,2024,Central
+151.5,Ground,Resale,2600000,Terrace,Land,OCR,2019,North-East
+99.0,11-15,Resale,1560000,Apartment,Strata,RCR,2024,East
+395.6,Ground,Resale,7200000,Semi-detached,Land,RCR,2021,East
+95.0,01-05,Resale,1250000,Condominium,Strata,OCR,2024,East
+46.0,01-05,Resale,940000,Apartment,Strata,RCR,2023,Central
+109.0,11-15,Resale,1310000,Condominium,Strata,OCR,2023,East
+126.0,06-10,Resale,1580000,Condominium,Strata,OCR,2023,East
+348.8,Ground,Resale,3800000,Semi-detached,Land,OCR,2020,North-East
+322.0,Ground,Resale,3150000,Condominium,Strata,OCR,2024,East
+582.0,Ground,Resale,9530000,Detached,Land,OCR,2024,East
+86.0,11-15,Resale,1990000,Condominium,Strata,OCR,2024,North-East
+78.0,01-05,Resale,1500000,Condominium,Strata,RCR,2024,West
+96.0,01-05,Resale,1200000,Apartment,Strata,OCR,2019,East
+119.0,01-05,Resale,1498000,Apartment,Strata,CCR,2019,Central
+155.0,01-05,Resale,3220000,Condominium,Strata,CCR,2023,Central
+163.0,01-05,Resale,3200000,Apartment,Strata,RCR,2024,East
+169.0,11-15,Resale,2908000,Condominium,Strata,OCR,2024,West
+314.0,01-05,Resale,9250000,Condominium,Strata,CCR,2024,Central
+276.0,01-05,Resale,9280000,Condominium,Strata,RCR,2024,East
+145.7,Ground,Resale,2050000,Terrace,Land,OCR,2020,North-East
+94.0,01-05,New Sale,2833600,Apartment,Strata,CCR,2019,Central
+182.0,01-05,Resale,2250000,Apartment,Strata,OCR,2024,East
+150.0,01-05,Resale,1520000,Apartment,Strata,OCR,2020,North-East
+143.0,31-35,Resale,3470000,Condominium,Strata,CCR,2023,Central
+318.0,Ground,Resale,2850000,Strata Terrace,Strata,RCR,2020,Central
+120.0,06-10,Resale,3300000,Condominium,Strata,CCR,2023,Central
+208.8,Ground,Resale,3650000,Terrace,Land,OCR,2024,North-East
+160.0,26-30,Resale,4780000,Condominium,Strata,CCR,2024,Central
+165.0,06-10,Resale,3935000,Apartment,Strata,CCR,2023,Central
+162.6,Ground,Resale,3250000,Terrace,Land,OCR,2020,East
+116.0,01-05,Resale,1370000,Apartment,Strata,RCR,2019,West
+118.0,01-05,Resale,1730000,Apartment,Strata,CCR,2020,Central
+154.0,01-05,Resale,2550000,Apartment,Strata,RCR,2022,East
+122.6,01-05,Resale,3000000,Apartment,Land,RCR,2021,East
+106.0,06-10,Resale,1768000,Condominium,Strata,OCR,2024,North-East
+115.0,01-05,Resale,1820000,Condominium,Strata,OCR,2020,East
+115.0,06-10,Resale,1530000,Apartment,Strata,RCR,2023,East
+101.0,01-05,Resale,1740000,Apartment,Strata,OCR,2024,East
+315.8,Ground,Resale,3650000,Semi-detached,Land,RCR,2020,East
+102.0,01-05,New Sale,2590000,Apartment,Strata,RCR,2024,East
+83.0,01-05,Resale,1700000,Apartment,Strata,CCR,2023,Central
+62.0,01-05,Resale,1220000,Condominium,Strata,OCR,2024,East
+144.0,01-05,Resale,2680000,Apartment,Strata,OCR,2023,East
+222.0,01-05,Resale,3000000,Condominium,Strata,CCR,2020,Central
+106.0,06-10,Resale,1280000,Condominium,Strata,OCR,2023,East
+217.0,06-10,Resale,3750000,Condominium,Strata,RCR,2024,East
+92.0,01-05,Resale,1700000,Apartment,Strata,OCR,2024,East
+159.1,Ground,Resale,1900000,Terrace,Land,OCR,2019,North-East
+33.0,06-10,Resale,650000,Apartment,Strata,RCR,2024,East
+196.0,01-05,Resale,11750000,Apartment,Land,CCR,2023,Central
+207.5,Ground,Resale,3850000,Terrace,Land,OCR,2024,East
+90.0,01-05,Resale,2228000,Condominium,Strata,CCR,2024,Central
+273.0,Ground,Resale,2200000,Strata Terrace,Strata,OCR,2021,North-East
+47.0,01-05,Resale,740000,Apartment,Strata,RCR,2020,East
+39.0,06-10,Resale,500000,Apartment,Strata,RCR,2020,East
+152.4,Ground,Resale,3180000,Terrace,Land,OCR,2019,West
+95.0,01-05,Resale,2038000,Apartment,Strata,OCR,2024,North-East
+190.0,01-05,Resale,5700000,Condominium,Strata,CCR,2024,Central
+315.0,Ground,Resale,4150000,Semi-detached,Land,OCR,2021,East
+65.0,11-15,Sub Sale,1430000,Condominium,Strata,RCR,2024,East
+377.7,Ground,Resale,9526890,Semi-detached,Land,CCR,2021,Central
+173.5,Ground,Resale,5060000,Terrace,Land,CCR,2019,Central
+177.0,16-20,New Sale,5746000,Apartment,Strata,RCR,2023,East
+205.0,Ground,New Sale,6400000,Semi-detached,Land,RCR,2022,North-East
+116.0,01-05,Resale,2218000,Condominium,Strata,OCR,2024,East
+405.1,Ground,Resale,7900000,Detached,Land,CCR,2020,Central
+114.0,06-10,Resale,1300000,Apartment,Strata,RCR,2023,East
+56.0,11-15,Resale,1040000,Condominium,Strata,OCR,2024,East
+116.0,01-05,Resale,1170000,Condominium,Strata,OCR,2023,East
+43.0,01-05,Resale,690000,Apartment,Strata,RCR,2023,East
+90.0,01-05,Resale,1170000,Apartment,Strata,RCR,2020,West
+37.0,06-10,Resale,620000,Apartment,Strata,RCR,2024,East
+182.0,01-05,Resale,1758000,Condominium,Strata,OCR,2024,East
+114.0,06-10,Resale,1250000,Apartment,Strata,RCR,2020,East
+374.5,Ground,Resale,7600088,Semi-detached,Land,RCR,2021,East
+60.0,01-05,Resale,830000,Apartment,Strata,RCR,2021,Central
+147.0,06-10,New Sale,3087000,Apartment,Strata,RCR,2023,Central
+43.0,01-05,Resale,960000,Apartment,Strata,CCR,2023,Central
+218.0,Ground,Resale,4688888,Semi-detached,Land,OCR,2024,North-East
+205.0,11-15,Resale,4600000,Apartment,Strata,CCR,2019,Central
+262.0,Ground,Resale,2863000,Terrace,Land,OCR,2021,East
+221.0,01-05,Resale,4100000,Condominium,Strata,CCR,2024,Central
+232.0,06-10,Resale,4330000,Apartment,Strata,RCR,2024,East
+42.0,01-05,Resale,668000,Apartment,Strata,RCR,2024,East
+163.3,Ground,Resale,2192000,Terrace,Land,OCR,2020,North-East
+60.0,01-05,Resale,950000,Condominium,Strata,OCR,2024,West
+177.0,11-15,Resale,3000000,Condominium,Strata,CCR,2024,Central
+59.0,01-05,Resale,690000,Apartment,Strata,OCR,2020,East
+198.0,01-05,Resale,4100000,Condominium,Strata,CCR,2023,Central
+298.0,11-15,Resale,5100000,Apartment,Strata,CCR,2020,Central
+37.0,B1-B5,Resale,650000,Apartment,Strata,OCR,2023,East
+45.0,21-25,Resale,1080000,Apartment,Strata,CCR,2024,Central
+520.3,Ground,Resale,9500000,Detached,Land,RCR,2023,North-East
+210.0,01-05,Resale,2370000,Apartment,Strata,OCR,2022,North-East
+169.3,Ground,Resale,3200000,Terrace,Land,OCR,2023,North-East
+108.0,01-05,Resale,1001000,Apartment,Strata,OCR,2019,East
+207.2,Ground,Resale,3500000,Terrace,Land,OCR,2021,North-East
+143.0,16-20,Resale,1600000,Apartment,Strata,RCR,2024,Central
+99.0,06-10,Resale,2750000,Condominium,Strata,CCR,2024,Central
+174.5,01-05,Sub Sale,1310000,Apartment,Strata,RCR,2024,East
+176.0,01-05,Resale,2940000,Condominium,Strata,RCR,2024,West
