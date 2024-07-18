@@ -6,6 +6,8 @@ from dataclasses import dataclass
 from src.utils import retrieve_data_from_db
 from src.components.data_transformation import DataTransformation
 from src.components.data_transformation import DataTransformationConfig
+from src.components.model_trainer import ModelTrainer
+from src.components.model_trainer import ModelTrainerConfig
 
 
 @dataclass
@@ -71,3 +73,6 @@ if __name__ == "__main__":
 
     data_transformation_obj = DataTransformation()
     train_df,test_df,_ = data_transformation_obj.initiate_data_transformation(train_path,test_path)
+
+    model_trainer_obj = ModelTrainer()
+    model_trainer_obj.initiate_model_training(train_df,test_df)

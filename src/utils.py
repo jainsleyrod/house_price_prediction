@@ -4,6 +4,8 @@ import numpy as np
 import os
 import sys
 import dill
+from sklearn.metrics import r2_score
+from sklearn.model_selection import GridSearchCV
 
 
 
@@ -35,24 +37,23 @@ def save_object(file_path,obj):
         dill.dump(obj,f)
 
 
-def check_data_corruption(df):
-    # Check for missing values
-    missing_values = df.isnull().sum()
-    print("Missing values in DataFrame:")
-    print(missing_values)
-    
-    # Check for duplicate rows
-    duplicates = df.duplicated().sum()
-    print("\nDuplicate rows in DataFrame:")
-    print(duplicates)
-    
-    # Check for inconsistent data types
-    data_types = df.dtypes
-    print("\nData types of DataFrame columns:")
-    print(data_types)
-    
-    # Summary of DataFrame
-    print("\nSummary of DataFrame:")
-    print(df.info())
-    
-    return missing_values, duplicates, data_types
+def evaluate_models(X_train, y_train, X_test, y_test, models,params):
+    report = {}
+    for i in range(len(list(models))):
+        model = list(models.values())[i]
+
+        param = params[list(models.keys())[i]]
+        gs = GridSearchCV(model,param,cv=3)
+        gs.fit(X_train,y_train)
+        model.set_params(**gs.best_params_)
+        model.fit(X_train, y_train)
+
+
+        #predicting on the training and test set
+        y_train_pred = model.predict(X_train)
+        y_test_pred = model.predict(X_test)
+
+        train_model_score = r2_score(y_train,y_train_pred)
+        test_model_score = r2_score(y_test, y_test_pred)
+        report[list(models.keys())[i]] = test_model_score  
+    return report
