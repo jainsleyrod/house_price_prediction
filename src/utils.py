@@ -36,6 +36,11 @@ def save_object(file_path,obj):
     with open(file_path,'wb') as f:
         dill.dump(obj,f)
 
+def load_object(file_path):
+    with open(file_path,'rb') as f:
+        return dill.load(f)
+    
+
 
 def evaluate_models(X_train, y_train, X_test, y_test, models,params):
     report = {}

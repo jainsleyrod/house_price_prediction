@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Prediction Form</title>
+</head>
+<body>
+    <h1>Enter Property Details for Prediction</h1>
+    <p>Note: The likely range for area is between 30.0 sqm and 1654.4 sqm, with an average of 210.36 sqm.</p>
+    <form action="/prediction" method="post">
+        <label for="area">Area (in sqm):</label>
+        <input type="number" id="area" name="area" step="0.1" min="30" max="1654.4" required><br><br>
+
+        <label for="floorRange">Floor Range:</label>
+        <select id="floorRange" name="floorRange" required>
+            <option value="01-05">01-05</option>
+            <option value="06-10">06-10</option>
+            <option value="11-15">11-15</option>
+            <option value="16-20">16-20</option>
+            <option value="21-25">21-25</option>
+            <option value="26-30">26-30</option>
+            <option value="31-35">31-35</option>
+            <option value="36-40">36-40</option>
+            <option value="41-45">41-45</option>
+            <option value="46-50">46-50</option>
+            <option value="Ground">Ground</option>
+            <option value="B1-B5">B1-B5</option>
+        </select><br><br>
+
+        <label for="typeOfSale">Type of Sale:</label>
+        <select id="typeOfSale" name="typeOfSale" required>
+            <option value="Resale">Resale</option>
+            <option value="New Sale">New Sale</option>
+            <option value="Sub Sale">Sub Sale</option>
+        </select><br><br>
+
+        <label for="propertyType">Property Type:</label>
+        <select id="propertyType" name="propertyType" required>
+            <option value="Condominium">Condominium</option>
+            <option value="Apartment">Apartment</option>
+            <option value="Terrace">Terrace</option>
+            <option value="Semi-detached">Semi-detached</option>
+            <option value="Strata Terrace">Strata Terrace</option>
+            <option value="Detached">Detached</option>
+            <option value="Strata Semi-detached">Strata Semi-detached</option>
+            <option value="Executive Condominium">Executive Condominium</option>
+            <option value="Strata Detached">Strata Detached</option>
+        </select><br><br>
+
+        <label for="typeOfArea">Type of Area:</label>
+        <select id="typeOfArea" name="typeOfArea" required>
+            <option value="Strata">Strata</option>
+            <option value="Land">Land</option>
+        </select><br><br>
+
+        <label for="mktSegment">Market Segment:</label>
+        <select id="mktSegment" name="mktSegment" required>
+            <option value="CCR">CCR</option>
+            <option value="RCR">RCR</option>
+            <option value="OCR">OCR</option>
+        </select><br><br>
+
+        <label for="Year">Year:</label>
+        <input type="number" id="Year" name="Year" required><br><br>
+
+        <label for="region">Region:</label>
+        <select id="region" name="region" required>
+            <option value="Central">Central</option>
+            <option value="East">East</option>
+            <option value="West">West</option>
+            <option value="North-East">North-East</option>
+        </select><br><br>
+
+        <input type="submit" value="Predict">
+    </form>
+    <h2>
+        The predicted price of the property is: {{results}}
+    </h2>
+</body>
+</html>
