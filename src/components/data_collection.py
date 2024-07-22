@@ -3,8 +3,8 @@ import pandas as pd
 import sqlite3
 
 
-access_key = 'f454e57f-86af-4fc0-ba98-2928eef7c1d3'
-access_token = 'QCc@q9F9f83@2BNf6fe4+HyHfqWM8z9R8qcK9CCyTD2a4aRj8Pg0HTVaaYet7p855G86s-QMufzz4RaYeMgY7a6jv5vh7zfv6kvp'
+access_key = ###
+access_token = ###
 url = 'https://www.ura.gov.sg/uraDataService/invokeUraDS'
 
 conn = sqlite3.connect('house_data.db')
