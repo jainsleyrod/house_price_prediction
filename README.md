@@ -31,6 +31,8 @@ Features of Data:
 ## EDA
 I plotted some hisstograms and barplots to see the distibutioon of my numerical and categorical variables
 
+![graphs](https://github.com/user-attachments/assets/630ff157-1ae7-4fa9-b1f8-77dd930794f2)
+
 
 ## Data Ingestion
 After storing my data, I did some data cleaning which included:
@@ -48,6 +50,7 @@ After storing my data, I did some data cleaning which included:
 * Evaluated my models using r2 score
 
 **Best Model** : CatBoost
+
 **R2 Score** : 0.8784298951068704
 
 ## Deployment
